@@ -1,0 +1,4706 @@
+[
+  {
+    "id": 1,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "What is React primarily used for?",
+    "options": ["Backend development", "Frontend development", "Database management", "Testing"],
+    "answer": "Frontend development"
+  },
+
+  {
+    "id": 2,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which of the following is a CSS framework?",
+    "options": ["Django", "Bootstrap", "Node.js", "Flask"],
+    "answer": "Bootstrap"
+  },
+
+  {
+    "id": 3,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which language is essential for web styling?",
+    "options": ["JavaScript", "Python", "CSS", "SQL"],
+    "answer": "CSS"
+  },
+  {
+    "id": 4,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which of these is a JavaScript library for building UI?",
+    "options": ["React", "Laravel", "Django", "Flask"],
+    "answer": "React"
+  },
+  {
+    "id": 5,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "What does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "High Text Machine Language", "Hyper Transfer Markup Language", "Hyperlink Text Markup Logic"],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "id": 6,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": ["<link>", "<a>", "<href>", "<hyperlink>"],
+    "answer": "<a>"
+  },
+  {
+    "id": 7,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which CSS property controls the text size?",
+    "options": ["font-style", "text-size", "font-size", "text-style"],
+    "answer": "font-size"
+  },
+  {
+    "id": 8,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which of the following is used to make web pages interactive?",
+    "options": ["HTML", "CSS", "JavaScript", "SQL"],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 9,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which of these is a frontend framework?",
+    "options": ["Angular", "Laravel", "Express", "Spring"],
+    "answer": "Angular"
+  },
+  {
+    "id": 10,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which React hook is used to manage state?",
+    "options": ["useState", "useEffect", "useContext", "useReducer"],
+    "answer": "useState"
+  },
+  {
+    "id": 11,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which CSS property changes background color?",
+    "options": ["color", "background-color", "bg-color", "fill-color"],
+    "answer": "background-color"
+  },
+  {
+    "id": 12,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which HTML element is used for an unordered list?",
+    "options": ["<ol>", "<ul>", "<li>", "<list>"],
+    "answer": "<ul>"
+  },
+  {
+    "id": 13,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which attribute is used to reference external JavaScript file?",
+    "options": ["src", "href", "link", "ref"],
+    "answer": "src"
+  },
+  {
+    "id": 14,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which of these is NOT a valid CSS position value?",
+    "options": ["absolute", "fixed", "sticky", "staticx"],
+    "answer": "staticx"
+  },
+  {
+    "id": 15,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "What is JSX in React?",
+    "options": ["JavaScript XML", "JavaScript XHTML", "JSON Syntax", "Java Simple XML"],
+    "answer": "JavaScript XML"
+  },
+  {
+    "id": 16,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which method is used to attach an event listener in JavaScript?",
+    "options": ["addListener()", "attachEvent()", "addEventListener()", "onEvent()"],
+    "answer": "addEventListener()"
+  },
+  {
+    "id": 17,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which of these is used to make responsive web designs?",
+    "options": ["Media Queries", "JavaScript Functions", "HTML Lists", "CSS Grid only"],
+    "answer": "Media Queries"
+  },
+  {
+    "id": 18,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which symbol is used for id selector in CSS?",
+    "options": [".", "#", "*", "$"],
+    "answer": "#"
+  },
+  {
+    "id": 19,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which symbol is used for class selector in CSS?",
+    "options": [".", "#", "*", "$"],
+    "answer": "."
+  },
+  {
+    "id": 20,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which of these is a frontend package manager?",
+    "options": ["npm", "pip", "composer", "gem"],
+    "answer": "npm"
+  },
+  {
+    "id": 21,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which of these is used for animations in web pages?",
+    "options": ["CSS transitions", "HTML tags", "SQL queries", "JSON data"],
+    "answer": "CSS transitions"
+  },
+  {
+    "id": 22,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which React function renders UI elements?",
+    "options": ["React.render()", "ReactDOM.render()", "React.createElement()", "renderUI()"],
+    "answer": "ReactDOM.render()"
+  },
+  {
+    "id": 23,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which of these is a pseudo-class in CSS?",
+    "options": [":hover", "#hover", ".hover", "*hover"],
+    "answer": ":hover"
+  },
+  {
+    "id": 24,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which HTML element is used for inserting images?",
+    "options": ["<image>", "<img>", "<src>", "<picture>"],
+    "answer": "<img>"
+  },
+  {
+    "id": 25,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which of these is a frontend testing library?",
+    "options": ["Jest", "Mocha", "PyTest", "JUnit"],
+    "answer": "Jest"
+  },
+  {
+    "id": 26,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which HTML element is used for the largest heading?",
+    "options": ["<h6>", "<h1>", "<header>", "<head>"],
+    "answer": "<h1>"
+  },
+  {
+    "id": 27,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which attribute is used for alternative text in images?",
+    "options": ["alt", "src", "title", "text"],
+    "answer": "alt"
+  },
+  {
+    "id": 28,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which HTML element is used for a line break?",
+    "options": ["<break>", "<lb>", "<br>", "<hr>"],
+    "answer": "<br>"
+  },
+  {
+    "id": 29,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which of these is a frontend state management library?",
+    "options": ["Redux", "Laravel", "Flask", "Express"],
+    "answer": "Redux"
+  },
+  {
+    "id": 30,
+    "role": "frontend developer",
+    "category": "Technical",
+    "question": "Which HTML element is used for a paragraph?",
+    "options": ["<p>", "<para>", "<div>", "<section>"],
+    "answer": "<p>"
+  }
+,
+   {
+    "id": 31,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If a function returns true for all even numbers, what will it return for 8?",
+    "options": ["True", "False", "Undefined", "Error"],
+    "answer": "True"
+  },
+  {
+    "id": 32,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If x > 5 is true and x < 10 is false, which range can x belong to?",
+    "options": ["6-9", "10 or more", "0-4", "5 exactly"],
+    "answer": "10 or more"
+  },
+  {
+    "id": 33,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If you have 5 div elements and each has 3 child spans, how many spans are there in total?",
+    "options": ["5", "8", "15", "10"],
+    "answer": "15"
+  },
+  {
+    "id": 34,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If today is Monday, what day will it be 10 days later?",
+    "options": ["Thursday", "Friday", "Saturday", "Sunday"],
+    "answer": "Thursday"
+  },
+  {
+    "id": 35,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "A CSS rule has precedence if it is more specific. Which selector is most specific?",
+    "options": [".container", "#container", "div", "*"],
+    "answer": "#container"
+  },
+  {
+    "id": 36,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If the screen width is 1200px, which media query applies: @media (max-width: 768px) or @media (min-width: 1024px)?",
+    "options": ["max-width: 768px", "min-width: 1024px", "Both", "None"],
+    "answer": "min-width: 1024px"
+  },
+  {
+    "id": 37,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If a loop runs from i = 1 to i <= 5, how many iterations will it have?",
+    "options": ["4", "5", "6", "1"],
+    "answer": "5"
+  },
+  {
+    "id": 38,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If a boolean variable is false, which condition will evaluate to true?",
+    "options": ["!variable", "variable", "variable == true", "variable && true"],
+    "answer": "!variable"
+  },
+  {
+    "id": 39,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "You have 3 buttons and 4 links. How many total clickable elements are there?",
+    "options": ["7", "12", "1", "0"],
+    "answer": "7"
+  },
+  {
+    "id": 40,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If an element has display: none, how many elements are visible on screen?",
+    "options": ["0", "1", "Depends on other elements", "Cannot tell"],
+    "answer": "Depends on other elements"
+  },
+  {
+    "id": 41,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If 3 divs are floated left, how will they align horizontally?",
+    "options": ["Vertically", "Horizontally", "Stacked", "Overlapping"],
+    "answer": "Horizontally"
+  },
+  {
+    "id": 42,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If a number x is divisible by both 2 and 3, it must be divisible by:",
+    "options": ["5", "6", "4", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 43,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "A function adds 2 to an input. If input = 5, output = ?",
+    "options": ["5", "7", "2", "10"],
+    "answer": "7"
+  },
+  {
+    "id": 44,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If today is 25th Nov, what day will it be after 7 days?",
+    "options": ["1st Dec", "2nd Dec", "30th Nov", "5th Dec"],
+    "answer": "2nd Dec"
+  },
+  {
+    "id": 45,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If a variable is undefined, adding 1 to it results in?",
+    "options": ["NaN", "1", "undefined", "0"],
+    "answer": "NaN"
+  },
+  {
+    "id": 46,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If you reverse a string 'hello', what is the result?",
+    "options": ["hello", "olleh", "helol", "hlelo"],
+    "answer": "olleh"
+  },
+  {
+    "id": 47,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If a function multiplies input by 0, the output is always?",
+    "options": ["Input value", "0", "1", "Undefined"],
+    "answer": "0"
+  },
+  {
+    "id": 48,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If a list has 5 items and you remove 2, how many remain?",
+    "options": ["2", "3", "5", "0"],
+    "answer": "3"
+  },
+  {
+    "id": 49,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If x = 10 and y = 5, x > y && y < 10 evaluates to?",
+    "options": ["True", "False", "Undefined", "Error"],
+    "answer": "True"
+  },
+  {
+    "id": 50,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If an element is positioned absolute, it is relative to?",
+    "options": ["Body by default", "Parent with relative", "Viewport", "All of the above"],
+    "answer": "Parent with relative"
+  },
+  {
+    "id": 51,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If a condition is x !== 5, what values of x satisfy it?",
+    "options": ["5 only", "All except 5", "Undefined", "0 only"],
+    "answer": "All except 5"
+  },
+  {
+    "id": 52,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If 4 buttons are clicked and trigger the same function, how many events are fired?",
+    "options": ["1", "2", "4", "Depends on code"],
+    "answer": "4"
+  },
+  {
+    "id": 53,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If a number is even, which statement is always true?",
+    "options": ["It is divisible by 2", "It is divisible by 3", "It is prime", "It is odd"],
+    "answer": "It is divisible by 2"
+  },
+  {
+    "id": 54,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If a string has 6 characters, indexing starts at?",
+    "options": ["1", "0", "6", "Undefined"],
+    "answer": "0"
+  },
+  {
+    "id": 55,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If a loop runs from i = 0 to i < 5, total iterations?",
+    "options": ["5", "6", "4", "0"],
+    "answer": "5"
+  },
+  {
+    "id": 56,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If two conditions are true: x > 5 and y < 10, what does x > 5 || y > 15 evaluate to?",
+    "options": ["True", "False", "Undefined", "Error"],
+    "answer": "True"
+  },
+  {
+    "id": 57,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If a number is divisible by 2 and 5, it is also divisible by?",
+    "options": ["10", "7", "12", "2 only"],
+    "answer": "10"
+  },
+  {
+    "id": 58,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If an array has 10 elements, the last element index is?",
+    "options": ["9", "10", "0", "1"],
+    "answer": "9"
+  },
+  {
+    "id": 59,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If x = 3 and y = 4, what is x * y?",
+    "options": ["7", "12", "1", "0"],
+    "answer": "12"
+  },
+  {
+    "id": 60,
+    "role": "frontend developer",
+    "category": "Logical Reasoning",
+    "question": "If you combine two strings 'Hello' + 'World', result is?",
+    "options": ["HelloWorld", "Hello World", "Hello+World", "Error"],
+    "answer": "HelloWorld"
+  }
+  ,
+  {
+    "id": 61,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of the following is a backend programming language?",
+    "options": ["Python", "HTML", "CSS", "React"],
+    "answer": "Python"
+  },
+  {
+    "id": 62,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of these is a popular backend framework for Node.js?",
+    "options": ["Express", "Angular", "Vue", "React"],
+    "answer": "Express"
+  },
+  {
+    "id": 63,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of the following is a type of database?",
+    "options": ["MySQL", "HTML", "CSS", "React"],
+    "answer": "MySQL"
+  },
+  {
+    "id": 64,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "What is REST commonly used for?",
+    "options": ["Backend APIs", "Frontend styling", "UI components", "Testing CSS"],
+    "answer": "Backend APIs"
+  },
+  {
+    "id": 65,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which HTTP method is used to retrieve data from a server?",
+    "options": ["GET", "POST", "PUT", "DELETE"],
+    "answer": "GET"
+  },
+  {
+    "id": 66,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which HTTP method is used to create a new resource?",
+    "options": ["GET", "POST", "PUT", "DELETE"],
+    "answer": "POST"
+  },
+  {
+    "id": 67,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which database type stores data in tables with rows and columns?",
+    "options": ["Relational", "NoSQL", "Flat File", "GraphQL"],
+    "answer": "Relational"
+  },
+  {
+    "id": 68,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of these is a NoSQL database?",
+    "options": ["MongoDB", "MySQL", "PostgreSQL", "Oracle"],
+    "answer": "MongoDB"
+  },
+  {
+    "id": 69,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which language is commonly used for backend with Django framework?",
+    "options": ["Python", "JavaScript", "HTML", "CSS"],
+    "answer": "Python"
+  },
+  {
+    "id": 70,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of the following is used for database migrations in backend?",
+    "options": ["ORM", "CSS Grid", "React Hooks", "HTML Forms"],
+    "answer": "ORM"
+  },
+  {
+    "id": 71,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of these is used to secure APIs?",
+    "options": ["JWT", "Bootstrap", "React Router", "HTML"],
+    "answer": "JWT"
+  },
+  {
+    "id": 72,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of these is a common backend server?",
+    "options": ["Apache", "React", "Vue", "Angular"],
+    "answer": "Apache"
+  },
+  {
+    "id": 73,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which SQL command is used to fetch data from a table?",
+    "options": ["SELECT", "INSERT", "UPDATE", "DELETE"],
+    "answer": "SELECT"
+  },
+  {
+    "id": 74,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which SQL command is used to delete data from a table?",
+    "options": ["DELETE", "INSERT", "UPDATE", "SELECT"],
+    "answer": "DELETE"
+  },
+  {
+    "id": 75,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which backend language is compiled rather than interpreted?",
+    "options": ["Java", "Python", "PHP", "JavaScript"],
+    "answer": "Java"
+  },
+  {
+    "id": 76,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of these is used for version control in backend projects?",
+    "options": ["Git", "Bootstrap", "CSS", "HTML"],
+    "answer": "Git"
+  },
+  {
+    "id": 77,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of these is a common way to communicate between backend and frontend?",
+    "options": ["APIs", "CSS", "HTML", "SVG"],
+    "answer": "APIs"
+  },
+  {
+    "id": 78,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of these is a caching mechanism for backend?",
+    "options": ["Redis", "React", "Angular", "Vue"],
+    "answer": "Redis"
+  },
+  {
+    "id": 79,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of these is a common backend authentication method?",
+    "options": ["OAuth", "CSS Grid", "HTML Forms", "Bootstrap"],
+    "answer": "OAuth"
+  },
+  {
+    "id": 80,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which command is used to run a Node.js backend server?",
+    "options": ["node app.js", "npm install", "react-scripts start", "python app.py"],
+    "answer": "node app.js"
+  },
+  {
+    "id": 81,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which backend framework is commonly used with Ruby?",
+    "options": ["Rails", "Django", "Express", "Laravel"],
+    "answer": "Rails"
+  },
+  {
+    "id": 82,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which HTTP status code indicates a successful request?",
+    "options": ["200", "404", "500", "301"],
+    "answer": "200"
+  },
+  {
+    "id": 83,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which backend framework is used with PHP?",
+    "options": ["Laravel", "Django", "Rails", "Express"],
+    "answer": "Laravel"
+  },
+  {
+    "id": 84,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of these stores data in key-value pairs?",
+    "options": ["Redis", "MySQL", "PostgreSQL", "SQLite"],
+    "answer": "Redis"
+  },
+  {
+    "id": 85,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of these is a NoSQL database type?",
+    "options": ["Document-based", "Relational", "Column-based", "All of the above"],
+    "answer": "Document-based"
+  },
+  {
+    "id": 86,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which command is used to install dependencies in a Node.js project?",
+    "options": ["npm install", "git clone", "python setup.py", "composer install"],
+    "answer": "npm install"
+  },
+  {
+    "id": 87,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which backend language is used with Spring framework?",
+    "options": ["Java", "Python", "PHP", "Ruby"],
+    "answer": "Java"
+  },
+  {
+    "id": 88,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of these is used for asynchronous processing in backend?",
+    "options": ["Queues", "CSS", "HTML", "JSX"],
+    "answer": "Queues"
+  },
+  {
+    "id": 89,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which database supports ACID transactions?",
+    "options": ["PostgreSQL", "MongoDB", "Redis", "Cassandra"],
+    "answer": "PostgreSQL"
+  },
+  {
+    "id": 90,
+    "role": "backend developer",
+    "category": "Technical",
+    "question": "Which of these is a popular backend testing framework?",
+    "options": ["Jest", "Mocha", "Selenium", "Cypress"],
+    "answer": "Mocha"
+  }
+,
+  {
+    "id": 91,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a server can process 50 requests per second, how many requests can it process in 2 minutes?",
+    "options": ["3000", "5000", "6000", "1200"],
+    "answer": "6000"
+  },
+  {
+    "id": 92,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a database has 10 tables and each table has 5 columns, how many total columns are there?",
+    "options": ["10", "50", "15", "25"],
+    "answer": "50"
+  },
+  {
+    "id": 93,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If an API takes 3 seconds to respond and receives 20 requests simultaneously, what is the total response time assuming sequential processing?",
+    "options": ["3 sec", "20 sec", "60 sec", "10 sec"],
+    "answer": "60 sec"
+  },
+  {
+    "id": 94,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "A queue has 5 tasks. If 2 tasks are completed, what fraction remains?",
+    "options": ["1/5", "2/5", "3/5", "4/5"],
+    "answer": "3/5"
+  },
+  {
+    "id": 95,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a loop executes 10 times, and each iteration takes 0.5 seconds, total execution time is?",
+    "options": ["5 sec", "10 sec", "0.5 sec", "20 sec"],
+    "answer": "5 sec"
+  },
+  {
+    "id": 96,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If x = 5 and y = 10, what is x + y * 2?",
+    "options": ["30", "25", "15", "20"],
+    "answer": "25"
+  },
+  {
+    "id": 97,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a system has 8 CPUs and each CPU handles 3 threads, total threads are?",
+    "options": ["8", "11", "24", "16"],
+    "answer": "24"
+  },
+  {
+    "id": 98,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a user is online for 3 hours per day, how many hours online in a week?",
+    "options": ["15", "21", "20", "18"],
+    "answer": "21"
+  },
+  {
+    "id": 99,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a server uptime is 99% per month, how many hours is downtime in a 30-day month?",
+    "options": ["7.2 hours", "10 hours", "5 hours", "3 hours"],
+    "answer": "7.2 hours"
+  },
+  {
+    "id": 100,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If you divide 120 tasks among 4 servers equally, each server gets?",
+    "options": ["30", "40", "50", "60"],
+    "answer": "30"
+  },
+  {
+    "id": 101,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a database query returns 200 rows and each page shows 20 rows, how many pages are needed?",
+    "options": ["10", "20", "5", "15"],
+    "answer": "10"
+  },
+  {
+    "id": 102,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a backup runs every 6 hours, how many backups occur in a day?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "4"
+  },
+  {
+    "id": 103,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a binary search splits data in half each time, how many steps to search 64 elements?",
+    "options": ["6", "7", "8", "5"],
+    "answer": "6"
+  },
+  {
+    "id": 104,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If 3 servers fail out of 15, what percentage failed?",
+    "options": ["10%", "15%", "20%", "25%"],
+    "answer": "20%"
+  },
+  {
+    "id": 105,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a function returns True for numbers divisible by 4, what is the result for 12?",
+    "options": ["True", "False", "Undefined", "Error"],
+    "answer": "True"
+  },
+  {
+    "id": 106,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a server receives 500 requests and 25 fail, what is the failure rate?",
+    "options": ["5%", "4%", "10%", "20%"],
+    "answer": "5%"
+  },
+  {
+    "id": 107,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a task takes 3 seconds and there are 5 tasks in parallel, total time?",
+    "options": ["3 sec", "15 sec", "5 sec", "10 sec"],
+    "answer": "3 sec"
+  },
+  {
+    "id": 108,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a function x() calls itself 4 times recursively without base case, what happens?",
+    "options": ["Error", "Infinite loop", "Returns 0", "Returns 4"],
+    "answer": "Infinite loop"
+  },
+  {
+    "id": 109,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If 10 users log in at 1-second intervals, last login happens at?",
+    "options": ["10 sec", "9 sec", "11 sec", "1 sec"],
+    "answer": "9 sec"
+  },
+  {
+    "id": 110,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a server capacity is 1000 requests/sec and load is 800 requests/sec, remaining capacity?",
+    "options": ["100", "200", "500", "800"],
+    "answer": "200"
+  },
+  {
+    "id": 111,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a backend process reduces data by 50% each step, starting with 64, after 2 steps?",
+    "options": ["32", "16", "24", "8"],
+    "answer": "16"
+  },
+  {
+    "id": 112,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a system has 8 servers and 2 go offline, how many remain?",
+    "options": ["4", "6", "2", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 113,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a variable x = 7, x % 3 equals?",
+    "options": ["1", "2", "0", "3"],
+    "answer": "1"
+  },
+  {
+    "id": 114,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If an array has 12 elements, indices run from?",
+    "options": ["0-11", "1-12", "0-12", "1-11"],
+    "answer": "0-11"
+  },
+  {
+    "id": 115,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a backend response is delayed by 2 seconds and frontend timeout is 5 seconds, request succeeds?",
+    "options": ["Yes", "No", "Sometimes", "Cannot tell"],
+    "answer": "Yes"
+  },
+  {
+    "id": 116,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If 3 conditions are ANDed together, and one is false, overall result?",
+    "options": ["True", "False", "Depends", "Error"],
+    "answer": "False"
+  },
+  {
+    "id": 117,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If 1000 entries are inserted in a database, and batch size is 100, how many batches?",
+    "options": ["10", "100", "50", "20"],
+    "answer": "10"
+  },
+  {
+    "id": 118,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a server response time improves from 4s to 2s, improvement percentage?",
+    "options": ["50%", "25%", "100%", "75%"],
+    "answer": "50%"
+  },
+  {
+    "id": 119,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a system has 3 parallel processes each taking 4 seconds, total completion time?",
+    "options": ["4 sec", "12 sec", "8 sec", "Depends"],
+    "answer": "4 sec"
+  },
+  {
+    "id": 120,
+    "role": "backend developer",
+    "category": "Logical Reasoning",
+    "question": "If a process doubles data size each step, starting with 2 MB, after 3 steps?",
+    "options": ["8 MB", "16 MB", "12 MB", "32 MB"],
+    "answer": "16 MB"
+  },
+
+  {
+    "id": 121,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Full stack developers work on which parts of an application?",
+    "options": ["Frontend only", "Backend only", "Both frontend and backend", "Database only"],
+    "answer": "Both frontend and backend"
+  },
+  {
+    "id": 122,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which database can full stack developers commonly use?",
+    "options": ["MySQL", "HTML", "CSS", "React"],
+    "answer": "MySQL"
+  },
+  {
+    "id": 123,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which framework is used for frontend in a full stack application?",
+    "options": ["React", "Django", "Node.js", "Express"],
+    "answer": "React"
+  },
+  {
+    "id": 124,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which framework is commonly used for backend development?",
+    "options": ["Express", "Angular", "Vue", "Bootstrap"],
+    "answer": "Express"
+  },
+  {
+    "id": 125,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "What does REST API allow developers to do?",
+    "options": ["Communicate between frontend and backend", "Style components", "Render HTML", "Animate pages"],
+    "answer": "Communicate between frontend and backend"
+  },
+  {
+    "id": 126,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which of these is used for frontend state management?",
+    "options": ["Redux", "MongoDB", "Node.js", "SQL"],
+    "answer": "Redux"
+  },
+  {
+    "id": 127,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which of these is used to query relational databases?",
+    "options": ["SQL", "JavaScript", "CSS", "HTML"],
+    "answer": "SQL"
+  },
+  {
+    "id": 128,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which backend language is often paired with Node.js?",
+    "options": ["JavaScript", "Python", "PHP", "Ruby"],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 129,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which command runs a Node.js server?",
+    "options": ["node app.js", "npm start", "python app.py", "django runserver"],
+    "answer": "node app.js"
+  },
+  {
+    "id": 130,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which backend framework is used with Python?",
+    "options": ["Django", "React", "Vue", "Angular"],
+    "answer": "Django"
+  },
+  {
+    "id": 131,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which HTTP method updates a resource?",
+    "options": ["PUT", "GET", "POST", "DELETE"],
+    "answer": "PUT"
+  },
+  {
+    "id": 132,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which HTTP status code indicates resource not found?",
+    "options": ["404", "200", "500", "301"],
+    "answer": "404"
+  },
+  {
+    "id": 133,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which of these is a NoSQL database?",
+    "options": ["MongoDB", "MySQL", "PostgreSQL", "Oracle"],
+    "answer": "MongoDB"
+  },
+  {
+    "id": 134,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which frontend technology is used to create responsive UI?",
+    "options": ["CSS", "Python", "Node.js", "SQL"],
+    "answer": "CSS"
+  },
+  {
+    "id": 135,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which tool is commonly used for version control in full stack projects?",
+    "options": ["Git", "Jira", "Slack", "VS Code"],
+    "answer": "Git"
+  },
+  {
+    "id": 136,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which of these is used to handle authentication in full stack apps?",
+    "options": ["JWT", "CSS Grid", "React Router", "HTML Forms"],
+    "answer": "JWT"
+  },
+  {
+    "id": 137,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which package manager installs dependencies for Node.js apps?",
+    "options": ["npm", "pip", "composer", "yarn"],
+    "answer": "npm"
+  },
+  {
+    "id": 138,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which of these is used for backend testing?",
+    "options": ["Mocha", "React Testing Library", "Cypress", "Selenium"],
+    "answer": "Mocha"
+  },
+  {
+    "id": 139,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which backend server can serve Node.js applications?",
+    "options": ["Express", "Apache", "NGINX", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": 140,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which database supports ACID transactions?",
+    "options": ["PostgreSQL", "MongoDB", "Redis", "Cassandra"],
+    "answer": "PostgreSQL"
+  },
+  {
+    "id": 141,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which command installs a specific Node.js package?",
+    "options": ["npm install package-name", "node install package", "git clone package", "npm run package"],
+    "answer": "npm install package-name"
+  },
+  {
+    "id": 142,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which technology allows frontend to communicate with backend?",
+    "options": ["APIs", "HTML", "CSS", "SVG"],
+    "answer": "APIs"
+  },
+  {
+    "id": 143,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which of these is used for backend caching?",
+    "options": ["Redis", "CSS Grid", "HTML Forms", "React State"],
+    "answer": "Redis"
+  },
+  {
+    "id": 144,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which backend framework is used with Ruby?",
+    "options": ["Rails", "Django", "Express", "Laravel"],
+    "answer": "Rails"
+  },
+  {
+    "id": 145,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which database is best suited for hierarchical data?",
+    "options": ["MongoDB", "MySQL", "PostgreSQL", "SQLite"],
+    "answer": "MongoDB"
+  },
+  {
+    "id": 146,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which of these tools is used to monitor server performance?",
+    "options": ["New Relic", "VS Code", "React DevTools", "Chrome DevTools"],
+    "answer": "New Relic"
+  },
+  {
+    "id": 147,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which HTTP method removes a resource from the backend?",
+    "options": ["DELETE", "POST", "GET", "PUT"],
+    "answer": "DELETE"
+  },
+  {
+    "id": 148,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which of these frameworks uses MVC architecture?",
+    "options": ["Rails", "React", "Angular", "Vue"],
+    "answer": "Rails"
+  },
+  {
+    "id": 149,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which command starts a React development server?",
+    "options": ["npm start", "node app.js", "python manage.py runserver", "npm install"],
+    "answer": "npm start"
+  },
+  {
+    "id": 150,
+    "role": "full stack developer",
+    "category": "Technical",
+    "question": "Which of these is used for environment variables in Node.js?",
+    "options": [".env file", "config.json", "package.json", "index.js"],
+    "answer": ".env file"
+  },
+
+  {
+    "id": 151,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If all APIs must be authenticated and one API is not authenticated, what can you conclude?",
+    "options": ["System secure", "An exception exists", "Authentication failed", "Nothing can be concluded"],
+    "answer": "Authentication failed"
+  },
+  {
+    "id": 152,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "A developer tests both frontend and backend. If testing frontend takes 2 hours and backend takes 3 hours, how long for both?",
+    "options": ["3 hours", "5 hours", "6 hours", "2 hours"],
+    "answer": "5 hours"
+  },
+  {
+    "id": 153,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If a server responds slowly only when traffic increases, what is the most logical cause?",
+    "options": ["Database is fast", "Frontend bug", "High load or scaling issue", "Network is perfect"],
+    "answer": "High load or scaling issue"
+  },
+  {
+    "id": 154,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If A depends on B and B depends on C, what must run first?",
+    "options": ["A", "B", "C", "A and B together"],
+    "answer": "C"
+  },
+  {
+    "id": 155,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "You can only deploy if tests pass. Tests failed. Can you deploy?",
+    "options": ["Yes", "No", "Maybe", "Depends on developer"],
+    "answer": "No"
+  },
+  {
+    "id": 156,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "A user reports a bug only on mobile view. What is the most logical area to check?",
+    "options": ["Backend logic", "Desktop styles", "Responsive design", "Database schema"],
+    "answer": "Responsive design"
+  },
+  {
+    "id": 157,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If cache increases speed and a page loads slowly, what is a logical conclusion?",
+    "options": ["Cache working perfectly", "Cache missed", "Frontend error only", "Database crashed"],
+    "answer": "Cache missed"
+  },
+  {
+    "id": 158,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If frontend sends incorrect data, backend validation should:",
+    "options": ["Ignore it", "Accept everything", "Return an error", "Shut down"],
+    "answer": "Return an error"
+  },
+  {
+    "id": 159,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If API returns 500 error, what does it generally indicate?",
+    "options": ["Client mistake", "Server issue", "Network is fine", "Request succeeded"],
+    "answer": "Server issue"
+  },
+  {
+    "id": 160,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "Two developers work on the same file at the same time. What might happen?",
+    "options": ["Faster coding", "Merge conflict", "Better performance", "Automatic fix"],
+    "answer": "Merge conflict"
+  },
+  {
+    "id": 161,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If a feature works locally but fails in production, what is the first logical check?",
+    "options": ["Check theme color", "Environment differences", "User internet speed", "Screen size"],
+    "answer": "Environment differences"
+  },
+  {
+    "id": 162,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If API data is correct but UI displays wrong values, the issue lies in:",
+    "options": ["Database", "Backend", "Frontend", "Hosting server"],
+    "answer": "Frontend"
+  },
+  {
+    "id": 163,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "You have 3 tasks: design UI, build API, test. If API depends on UI, which one comes first?",
+    "options": ["Test", "API", "UI", "None"],
+    "answer": "UI"
+  },
+  {
+    "id": 164,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If a database query takes longer when data increases, what is the logical concern?",
+    "options": ["Indexing needed", "Frontend error", "User mistake", "Bad internet"],
+    "answer": "Indexing needed"
+  },
+  {
+    "id": 165,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If login works for some users but not others, what is the first check?",
+    "options": ["Server CPU usage", "User input correctness", "Frontend theme", "Browser zoom level"],
+    "answer": "User input correctness"
+  },
+  {
+    "id": 166,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If API receives null values unexpectedly, what should be checked?",
+    "options": ["Frontend form binding", "Router color", "Dark mode", "Folder structure"],
+    "answer": "Frontend form binding"
+  },
+  {
+    "id": 167,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If an app works only after refresh, what is the logical issue?",
+    "options": ["State not updating", "Server offline", "Wrong font", "Color mismatch"],
+    "answer": "State not updating"
+  },
+  {
+    "id": 168,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "A feature works in local and staging but fails in production. What is likely?",
+    "options": ["Internet slow", "Environment variables incorrect", "Frontend styling issue", "Everything is fine"],
+    "answer": "Environment variables incorrect"
+  },
+  {
+    "id": 169,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "Sorting data locally vs sorting through API. Which is faster for large data?",
+    "options": ["Frontend sorting", "Backend sorting", "Both same", "Depends on color theme"],
+    "answer": "Backend sorting"
+  },
+  {
+    "id": 170,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If server is down, what status code is expected?",
+    "options": ["200", "404", "503", "302"],
+    "answer": "503"
+  },
+  {
+    "id": 171,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If two APIs depend on each other circularly, what may occur?",
+    "options": ["Instant speed", "Infinite loop", "Caching", "Parallel computing"],
+    "answer": "Infinite loop"
+  },
+  {
+    "id": 172,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If the backend sends too much data, what is the frontend impact?",
+    "options": ["Fast load", "Slow rendering", "Better UX", "None"],
+    "answer": "Slow rendering"
+  },
+  {
+    "id": 173,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If JWT token expires, what happens?",
+    "options": ["User logs out", "Backend shuts down", "Database resets", "Frontend builds again"],
+    "answer": "User logs out"
+  },
+  {
+    "id": 174,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If two microservices communicate poorly, what might occur?",
+    "options": ["Faster performance", "Timeouts", "Higher SEO ranking", "Better UI"],
+    "answer": "Timeouts"
+  },
+  {
+    "id": 175,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If app performance decreases after adding animations, what is a logical fix?",
+    "options": ["Add more animations", "Optimize or remove animations", "Change backend", "Restart server"],
+    "answer": "Optimize or remove animations"
+  },
+  {
+    "id": 176,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If build size is too large, what can logically improve it?",
+    "options": ["Use larger fonts", "Code splitting", "More images", "More dependencies"],
+    "answer": "Code splitting"
+  },
+  {
+    "id": 177,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If website loads slow only at first visit, what is logical?",
+    "options": ["Cache warms up", "Frontend broken", "Database failure", "Network hacked"],
+    "answer": "Cache warms up"
+  },
+  {
+    "id": 178,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If form submits multiple times accidentally, what is logical fix?",
+    "options": ["Double-submit prevention", "Add more fields", "Increase padding", "Change theme"],
+    "answer": "Double-submit prevention"
+  },
+  {
+    "id": 179,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If user data is inconsistent across pages, what is the logical issue?",
+    "options": ["State mismanagement", "Button color incorrect", "SQL syntax error", "Browser zoom"],
+    "answer": "State mismanagement"
+  },
+  {
+    "id": 180,
+    "role": "full stack developer",
+    "category": "Logical Reasoning",
+    "question": "If frontend and backend disagree on data format, what is needed?",
+    "options": ["Better UI", "API contract alignment", "More animations", "Change hosting"],
+    "answer": "API contract alignment"
+  }
+  ,
+   {
+    "id": 181,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If two employees report the same issue repeatedly, what should HR logically do first?",
+    "options": ["Ignore it", "Investigate the root cause", "Change office color", "Delay response"],
+    "answer": "Investigate the root cause"
+  },
+  {
+    "id": 182,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If a candidate has excellent technical skills but poor communication, what should HR assess next?",
+    "options": ["Hobbies", "Trainability or communication potential", "Office location", "Dress code"],
+    "answer": "Trainability or communication potential"
+  },
+  {
+    "id": 183,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If employees suddenly start resigning, what is the most logical action?",
+    "options": ["Close the company", "Check workplace environment or leadership issues", "Hire random people", "Extend working hours"],
+    "answer": "Check workplace environment or leadership issues"
+  },
+  {
+    "id": 184,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If an employee’s productivity drops, what is the first factor to consider?",
+    "options": ["Chair quality", "Possible stress or workload problems", "Office snacks", "Fonts used in reports"],
+    "answer": "Possible stress or workload problems"
+  },
+  {
+    "id": 185,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If a job receives very few applicants, what should HR review first?",
+    "options": ["Employee birthdays", "Job description clarity", "Office wallpapers", "Printer ink"],
+    "answer": "Job description clarity"
+  },
+  {
+    "id": 186,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If a new policy confuses employees, what is HR’s best action?",
+    "options": ["Punish employees", "Explain or simplify the policy", "Ignore confusion", "Remove employee benefits"],
+    "answer": "Explain or simplify the policy"
+  },
+  {
+    "id": 187,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If a candidate lies on their resume, what should HR logically do?",
+    "options": ["Hire immediately", "Verify information and reject if necessary", "Ignore the lie", "Increase their salary"],
+    "answer": "Verify information and reject if necessary"
+  },
+  {
+    "id": 188,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If the manager receives repeated complaints, what should HR do first?",
+    "options": ["Promote manager", "Investigate complaints objectively", "Ignore complaints", "Punish employees"],
+    "answer": "Investigate complaints objectively"
+  },
+  {
+    "id": 189,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If an employee always interrupts others in meetings, what is the logical HR approach?",
+    "options": ["Fire immediately", "Provide behavioral feedback", "Change their desk", "Ignore behavior"],
+    "answer": "Provide behavioral feedback"
+  },
+  {
+    "id": 190,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If training increases employee performance, what should HR consider next?",
+    "options": ["Stop training", "Enhance or expand training", "Reduce benefits", "Increase workload"],
+    "answer": "Enhance or expand training"
+  },
+  {
+    "id": 191,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If a candidate applies repeatedly for different roles, what could be the reason?",
+    "options": ["Interest in the company", "Confusion about the office floors", "Bad website", "Free snacks"],
+    "answer": "Interest in the company"
+  },
+  {
+    "id": 192,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If employees do not understand HR policies, what is missing?",
+    "options": ["More meetings", "Clear communication", "More rules", "More punishments"],
+    "answer": "Clear communication"
+  },
+  {
+    "id": 193,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If remote employees feel isolated, what is HR’s best action?",
+    "options": ["Increase their workload", "Organize engagement sessions", "Remove remote option", "Ignore it"],
+    "answer": "Organize engagement sessions"
+  },
+  {
+    "id": 194,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If an employee is highly talented but disruptive, what must HR address first?",
+    "options": ["Give promotion", "Behavioral issues", "Office lighting", "Laptop brand"],
+    "answer": "Behavioral issues"
+  },
+  {
+    "id": 195,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If employees fear reporting issues, what is lacking?",
+    "options": ["HR emails", "Safe reporting channels", "Office plants", "CCTV cameras"],
+    "answer": "Safe reporting channels"
+  },
+  {
+    "id": 196,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If multiple candidates decline offers, what should HR check first?",
+    "options": ["Lunch break time", "Salary competitiveness", "Office seating", "Coffee machine"],
+    "answer": "Salary competitiveness"
+  },
+  {
+    "id": 197,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If employee morale is dropping, what could be the reason?",
+    "options": ["High engagement", "Leadership issues", "Perfect work-life balance", "More rewards"],
+    "answer": "Leadership issues"
+  },
+  {
+    "id": 198,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If two candidates have identical skills, what is a logical differentiating factor?",
+    "options": ["Favorite food", "Cultural fit", "Handwriting style", "Height"],
+    "answer": "Cultural fit"
+  },
+  {
+    "id": 199,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If an employee takes too many leaves, what should HR do?",
+    "options": ["Check leave pattern and reason", "Decrease salary", "Stop holidays", "Ignore leaves"],
+    "answer": "Check leave pattern and reason"
+  },
+  {
+    "id": 200,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If an interview panel is giving inconsistent feedback, what is needed?",
+    "options": ["More confusion", "Standardized interview structure", "Stop interviews", "Reduce questions"],
+    "answer": "Standardized interview structure"
+  },
+  {
+    "id": 201,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If new employees are confused during onboarding, what is likely missing?",
+    "options": ["Water supply", "Clear onboarding process", "More documents", "More managers"],
+    "answer": "Clear onboarding process"
+  },
+  {
+    "id": 202,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If employees are not following new policies, what could be the reason?",
+    "options": ["Confusing rules", "Perfect clarity", "High motivation", "More training"],
+    "answer": "Confusing rules"
+  },
+  {
+    "id": 203,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If performance reviews take too long, HR should improve:",
+    "options": ["Decorations", "Review structure and timeline", "Snacks quality", "Holiday calendar"],
+    "answer": "Review structure and timeline"
+  },
+  {
+    "id": 204,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If employees are not participating in events, what may HR check?",
+    "options": ["Interest and engagement levels", "Chairs", "AC temperature", "Floor color"],
+    "answer": "Interest and engagement levels"
+  },
+  {
+    "id": 205,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If multiple employees complain about heavy workload, HR should:",
+    "options": ["Add more workload", "Review workload distribution", "Stop listening", "Change office plants"],
+    "answer": "Review workload distribution"
+  },
+  {
+    "id": 206,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If a manager promotes favoritism, what is likely to occur?",
+    "options": ["Better morale", "Employee dissatisfaction", "Higher performance", "Smooth teamwork"],
+    "answer": "Employee dissatisfaction"
+  },
+  {
+    "id": 207,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If a candidate excels in communication but lacks core skills, HR should:",
+    "options": ["Hire immediately", "Evaluate trainability", "Reject without thinking", "Increase test difficulty"],
+    "answer": "Evaluate trainability"
+  },
+  {
+    "id": 208,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If exit interview data shows a common pattern, HR should:",
+    "options": ["Delete data", "Act on the concerns", "Ignore the pattern", "Blame employees"],
+    "answer": "Act on the concerns"
+  },
+  {
+    "id": 209,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If an employee stops responding suddenly, what should HR do?",
+    "options": ["Immediately fire them", "Reach out to understand the reason", "Ignore completely", "Reduce their salary"],
+    "answer": "Reach out to understand the reason"
+  },
+  {
+    "id": 210,
+    "role": "hr",
+    "category": "Logical Reasoning",
+    "question": "If HR wants to improve employee retention, what should be prioritized?",
+    "options": ["Random decisions", "Employee feedback and growth opportunities", "More strict rules", "Longer work hours"],
+    "answer": "Employee feedback and growth opportunities"
+  },
+  {
+    "id": 211,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "How do you typically resolve a conflict between two employees?",
+    "options": [
+      "Ignore it and hope it resolves itself",
+      "Listen to both sides and mediate a solution",
+      "Take disciplinary action immediately",
+      "Ask another team to handle it"
+    ],
+    "answer": "Listen to both sides and mediate a solution"
+  },
+  {
+    "id": 212,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What is the most important quality for an HR professional?",
+    "options": ["Empathy", "Strictness", "Silence", "Avoiding decisions"],
+    "answer": "Empathy"
+  },
+  {
+    "id": 213,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "How would you handle an employee who is frequently late?",
+    "options": [
+      "Document behavior and discuss improvement plan",
+      "Ignore it",
+      "Immediately fire them",
+      "Tell coworkers to warn them"
+    ],
+    "answer": "Document behavior and discuss improvement plan"
+  },
+  {
+    "id": 214,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What should HR do if an employee reports harassment?",
+    "options": [
+      "Conduct an unbiased investigation",
+      "Ignore the report",
+      "Tell the employee to handle it themselves",
+      "Wait for more complaints"
+    ],
+    "answer": "Conduct an unbiased investigation"
+  },
+  {
+    "id": 215,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "How should HR handle a high-performing employee who is rude to colleagues?",
+    "options": [
+      "Provide behavioral feedback and coaching",
+      "Reward them for their performance",
+      "Do nothing",
+      "Publicly embarrass them"
+    ],
+    "answer": "Provide behavioral feedback and coaching"
+  },
+  {
+    "id": 216,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "Which approach encourages employee engagement?",
+    "options": [
+      "Open communication",
+      "Strict control",
+      "Micromanagement",
+      "Avoiding feedback"
+    ],
+    "answer": "Open communication"
+  },
+  {
+    "id": 217,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "When delivering difficult feedback, what is the best method?",
+    "options": ["Be direct, respectful, and constructive", "Avoid it", "Send a text", "Be aggressive"],
+    "answer": "Be direct, respectful, and constructive"
+  },
+  {
+    "id": 218,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "How should HR handle an employee who feels undervalued?",
+    "options": [
+      "Have a conversation and address concerns",
+      "Tell them to stop complaining",
+      "Ignore them",
+      "Reduce their responsibilities"
+    ],
+    "answer": "Have a conversation and address concerns"
+  },
+  {
+    "id": 219,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What is the best way to build trust with employees?",
+    "options": ["Transparency", "Secrecy", "Avoid communication", "Discourage feedback"],
+    "answer": "Transparency"
+  },
+  {
+    "id": 220,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "How would you respond to an employee who cries during a meeting?",
+    "options": [
+      "Show empathy and give them time to compose",
+      "Tell them to stop crying",
+      "Ignore their emotions",
+      "End the meeting immediately"
+    ],
+    "answer": "Show empathy and give them time to compose"
+  },
+  {
+    "id": 221,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What behavior shows strong leadership?",
+    "options": ["Leading by example", "Blaming others", "Avoiding responsibility", "Creating fear"],
+    "answer": "Leading by example"
+  },
+  {
+    "id": 222,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "How should HR support employees dealing with burnout?",
+    "options": [
+      "Offer resources and reduce workload where possible",
+      "Tell them to work harder",
+      "Ignore their feelings",
+      "Cut their salary"
+    ],
+    "answer": "Offer resources and reduce workload where possible"
+  },
+  {
+    "id": 223,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What is the best way to encourage teamwork?",
+    "options": ["Collaboration activities", "Isolation", "Competition only", "Negative feedback"],
+    "answer": "Collaboration activities"
+  },
+  {
+    "id": 224,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "How should HR deal with gossip in the workplace?",
+    "options": [
+      "Address it directly and reinforce company values",
+      "Join the gossip",
+      "Ignore everything",
+      "Punish employees harshly"
+    ],
+    "answer": "Address it directly and reinforce company values"
+  },
+  {
+    "id": 225,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What promotes a positive work culture?",
+    "options": ["Recognition", "Criticism", "Secrecy", "Instability"],
+    "answer": "Recognition"
+  },
+  {
+    "id": 226,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "Which action strengthens employee morale?",
+    "options": ["Rewarding good work", "Ignoring achievements", "Micromanagement", "Blaming mistakes"],
+    "answer": "Rewarding good work"
+  },
+  {
+    "id": 227,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "How should HR handle employee disagreements?",
+    "options": [
+      "Mediate respectfully",
+      "Take sides",
+      "Ignore it",
+      "Escalate immediately"
+    ],
+    "answer": "Mediate respectfully"
+  },
+  {
+    "id": 228,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "How can HR motivate disengaged employees?",
+    "options": ["Understand causes and create solutions", "Ignore them", "Punish them", "Add more rules"],
+    "answer": "Understand causes and create solutions"
+  },
+  {
+    "id": 229,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "A good HR professional should be excellent at:",
+    "options": ["Communication", "Avoiding team", "Being silent", "Not interacting"],
+    "answer": "Communication"
+  },
+  {
+    "id": 230,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What is the best way to handle a workplace complaint?",
+    "options": [
+      "Investigate fairly",
+      "Ignore it",
+      "Blame the complainer",
+      "Delay indefinitely"
+    ],
+    "answer": "Investigate fairly"
+  },
+  {
+    "id": 231,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What behavior improves leadership credibility?",
+    "options": ["Consistency", "Favoritism", "Anger", "Dishonesty"],
+    "answer": "Consistency"
+  },
+  {
+    "id": 232,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What should HR do during employee exit interviews?",
+    "options": ["Collect honest feedback", "Rush the process", "Avoid questions", "Ignore comments"],
+    "answer": "Collect honest feedback"
+  },
+  {
+    "id": 233,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "To handle an employee with low confidence, HR should:",
+    "options": ["Encourage and mentor them", "Criticize them", "Ignore them", "Create pressure"],
+    "answer": "Encourage and mentor them"
+  },
+  {
+    "id": 234,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What promotes psychological safety?",
+    "options": [
+      "Allowing employees to speak openly",
+      "Punishing honesty",
+      "Discouraging new ideas",
+      "Ignoring feedback"
+    ],
+    "answer": "Allowing employees to speak openly"
+  },
+  {
+    "id": 235,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What is HR's role in maintaining ethics?",
+    "options": ["Ensuring policies are followed", "Ignoring misconduct", "Covering up issues", "Avoiding documentation"],
+    "answer": "Ensuring policies are followed"
+  },
+  {
+    "id": 236,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What improves employee retention?",
+    "options": ["Career growth opportunities", "Lack of clarity", "Micromanagement", "Unfair policies"],
+    "answer": "Career growth opportunities"
+  },
+  {
+    "id": 237,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "How should HR respond to a team with poor collaboration?",
+    "options": [
+      "Team-building workshops",
+      "Blame the team",
+      "Remove team members",
+      "Ignore the issue"
+    ],
+    "answer": "Team-building workshops"
+  },
+  {
+    "id": 238,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What should HR encourage to create a transparent culture?",
+    "options": ["Openness", "Fear", "Competition only", "Silence"],
+    "answer": "Openness"
+  },
+  {
+    "id": 239,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "A manager complains about a difficult team member. What should HR do?",
+    "options": [
+      "Analyze behavior and coach both sides",
+      "Take immediate disciplinary action",
+      "Ignore the manager",
+      "Tell manager to deal with it alone"
+    ],
+    "answer": "Analyze behavior and coach both sides"
+  },
+  {
+    "id": 240,
+    "role": "hr",
+    "category": "Behavioral",
+    "question": "What is essential for HR when making decisions?",
+    "options": ["Fairness", "Bias", "Assumptions", "Ignoring context"],
+    "answer": "Fairness"
+  },
+  {
+    "id": 241,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What is the main purpose of an admin panel?",
+    "options": ["Manage users and system settings", "Write backend APIs", "Develop UI components", "Deploy servers"],
+    "answer": "Manage users and system settings"
+  },
+  {
+    "id": 242,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which protocol is primarily used for secure web browsing?",
+    "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+    "answer": "HTTPS"
+  },
+  {
+    "id": 243,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What is a strong password example?",
+    "options": ["12345", "password123", "R@nd0m#2024", "admin123"],
+    "answer": "R@nd0m#2024"
+  },
+  {
+    "id": 244,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What does '2FA' stand for?",
+    "options": [
+      "Two-Factor Authentication",
+      "Two-File Access",
+      "Transfer File Authorization",
+      "Technical File Analyzer"
+    ],
+    "answer": "Two-Factor Authentication"
+  },
+  {
+    "id": 245,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which tool is commonly used to track system performance?",
+    "options": ["Task Manager", "Notepad", "Paint", "Calculator"],
+    "answer": "Task Manager"
+  },
+  {
+    "id": 246,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which database type stores data in tables?",
+    "options": ["SQL", "NoSQL", "JSON Files", "Cache Storage"],
+    "answer": "SQL"
+  },
+  {
+    "id": 247,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What does 'IP address' identify?",
+    "options": ["A device on a network", "A file", "A password", "A user role"],
+    "answer": "A device on a network"
+  },
+  {
+    "id": 248,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which of the following is a cloud service provider?",
+    "options": ["AWS", "Bootstrap", "VS Code", "Node.js"],
+    "answer": "AWS"
+  },
+  {
+    "id": 249,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What does 'VPN' do?",
+    "options": [
+      "Encrypts internet connection",
+      "Improves PC speed",
+      "Backs up files",
+      "Blocks ads"
+    ],
+    "answer": "Encrypts internet connection"
+  },
+  {
+    "id": 250,
+    "role": "admin",
+    "category": "Technical",
+    "question": "In system administration, what does 'backup' mean?",
+    "options": [
+      "Copying data for recovery",
+      "Deleting old files",
+      "Updating software",
+      "Changing user permissions"
+    ],
+    "answer": "Copying data for recovery"
+  },
+  {
+    "id": 251,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which is an example of user authentication?",
+    "options": ["Login with password", "Opening a browser", "Restarting PC", "Printing documents"],
+    "answer": "Login with password"
+  },
+  {
+    "id": 252,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What is the purpose of user roles?",
+    "options": [
+      "To manage access permissions",
+      "To write code",
+      "To create UI",
+      "To train employees"
+    ],
+    "answer": "To manage access permissions"
+  },
+  {
+    "id": 253,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which of these is used for tracking logins and activity?",
+    "options": ["Audit logs", "Clipboard", "Image Gallery", "Calculator"],
+    "answer": "Audit logs"
+  },
+  {
+    "id": 254,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What is an example of cloud storage?",
+    "options": ["Google Drive", "Chrome", "Paint", "WinRAR"],
+    "answer": "Google Drive"
+  },
+  {
+    "id": 255,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What is the safest way to store passwords?",
+    "options": [
+      "Hashed in a database",
+      "Plain text file",
+      "Written on paper",
+      "Shared via email"
+    ],
+    "answer": "Hashed in a database"
+  },
+  {
+    "id": 256,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which of the following is considered a cyber threat?",
+    "options": ["Malware", "Video files", "Text document", "Wallpaper"],
+    "answer": "Malware"
+  },
+  {
+    "id": 257,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which command is used to check network connectivity?",
+    "options": ["ping", "mkdir", "delete", "copy"],
+    "answer": "ping"
+  },
+  {
+    "id": 258,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What is the purpose of firewall?",
+    "options": [
+      "To block unauthorized access",
+      "To store passwords",
+      "To edit documents",
+      "To speed up Wi-Fi"
+    ],
+    "answer": "To block unauthorized access"
+  },
+  {
+    "id": 259,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which format is commonly used for data export?",
+    "options": ["CSV", "MP3", "GIF", "MP4"],
+    "answer": "CSV"
+  },
+  {
+    "id": 260,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What does 'downtime' mean?",
+    "options": [
+      "Period when the system is not available",
+      "Time of lunch break",
+      "Software version",
+      "Backup time"
+    ],
+    "answer": "Period when the system is not available"
+  },
+  {
+    "id": 261,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which tool helps in project or team communication?",
+    "options": ["Slack", "MS Paint", "WordPad", "Calculator"],
+    "answer": "Slack"
+  },
+  {
+    "id": 262,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Control Power Unit", "Central Program Utility", "Computer Primary Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": 263,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which storage is fastest?",
+    "options": ["SSD", "HDD", "DVD", "USB 2.0"],
+    "answer": "SSD"
+  },
+  {
+    "id": 264,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What is an example of a collaboration tool?",
+    "options": ["Google Docs", "Task Manager", "Recycle Bin", "Paint 3D"],
+    "answer": "Google Docs"
+  },
+  {
+    "id": 265,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which file type is used for software installation?",
+    "options": [".exe", ".jpg", ".mp4", ".txt"],
+    "answer": ".exe"
+  },
+  {
+    "id": 266,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What does 'Ctrl + C' do?",
+    "options": ["Copy", "Paste", "Undo", "Cut"],
+    "answer": "Copy"
+  },
+  {
+    "id": 267,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What should an admin do before system updates?",
+    "options": ["Backup data", "Delete logs", "Remove antivirus", "Disconnect users"],
+    "answer": "Backup data"
+  },
+  {
+    "id": 268,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which is a common email protocol?",
+    "options": ["IMAP", "HTTP", "SSH", "FTP"],
+    "answer": "IMAP"
+  },
+  {
+    "id": 269,
+    "role": "admin",
+    "category": "Technical",
+    "question": "Which of the following is a database?",
+    "options": ["MySQL", "Photoshop", "Chrome", "Illustrator"],
+    "answer": "MySQL"
+  },
+  {
+    "id": 270,
+    "role": "admin",
+    "category": "Technical",
+    "question": "What is the purpose of system logs?",
+    "options": [
+      "To track activities and errors",
+      "To store passwords",
+      "To edit images",
+      "To monitor weather"
+    ],
+    "answer": "To track activities and errors"
+  },
+   {
+    "id": 271,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "How should an admin respond when a user is frustrated with a system issue?",
+    "options": [
+      "Listen patiently and offer help",
+      "Ignore the frustration",
+      "Tell them to calm down",
+      "Blame the user"
+    ],
+    "answer": "Listen patiently and offer help"
+  },
+  {
+    "id": 272,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "What trait is essential for an admin when dealing with multiple tasks?",
+    "options": ["Time management", "Anger", "Avoidance", "Confusion"],
+    "answer": "Time management"
+  },
+  {
+    "id": 273,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "How should an admin behave when resolving user complaints?",
+    "options": ["Be polite and professional", "Be rude", "Ignore complaints", "Delay responses"],
+    "answer": "Be polite and professional"
+  },
+  {
+    "id": 274,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "What should an admin do when they make a mistake?",
+    "options": ["Acknowledge it and fix it", "Hide it", "Blame someone else", "Ignore it"],
+    "answer": "Acknowledge it and fix it"
+  },
+  {
+    "id": 275,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "How should an admin handle confidential information?",
+    "options": ["Protect it carefully", "Share with coworkers", "Post online", "Ignore safety rules"],
+    "answer": "Protect it carefully"
+  },
+  {
+    "id": 276,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "A coworker is struggling with a new tool. What should the admin do?",
+    "options": ["Offer guidance", "Make fun of them", "Ignore them", "Tell them to learn alone"],
+    "answer": "Offer guidance"
+  },
+  {
+    "id": 277,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "How should an admin handle criticism?",
+    "options": ["Accept it positively", "Get angry", "Ignore feedback", "Blame others"],
+    "answer": "Accept it positively"
+  },
+  {
+    "id": 278,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "How should an admin act during busy days?",
+    "options": ["Stay calm and organized", "Panic", "Get irritated", "Take long breaks"],
+    "answer": "Stay calm and organized"
+  },
+  {
+    "id": 279,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "A user reports the same issue repeatedly. What should the admin do?",
+    "options": [
+      "Investigate the root cause",
+      "Tell them to stop complaining",
+      "Ignore the request",
+      "Delay action"
+    ],
+    "answer": "Investigate the root cause"
+  },
+  {
+    "id": 280,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "What builds trust between an admin and users?",
+    "options": ["Consistency", "Random behavior", "Rudeness", "Secrecy"],
+    "answer": "Consistency"
+  },
+  {
+    "id": 281,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "How should an admin respond when overwhelmed?",
+    "options": [
+      "Ask for help or prioritize tasks",
+      "Quit immediately",
+      "Ignore tasks",
+      "Hide issues"
+    ],
+    "answer": "Ask for help or prioritize tasks"
+  },
+  {
+    "id": 282,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "What behavior is expected from an admin handling customer-facing queries?",
+    "options": ["Professionalism", "Sarcasm", "Anger", "Silence"],
+    "answer": "Professionalism"
+  },
+  {
+    "id": 283,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "If a team member behaves unprofessionally, what should the admin do?",
+    "options": [
+      "Report or address the issue calmly",
+      "Ignore it completely",
+      "Encourage them",
+      "React angrily"
+    ],
+    "answer": "Report or address the issue calmly"
+  },
+  {
+    "id": 284,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "How should an admin communicate changes in system policies?",
+    "options": ["Clearly and in advance", "Keep it secret", "Tell only some users", "Announce last minute"],
+    "answer": "Clearly and in advance"
+  },
+  {
+    "id": 285,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "What should an admin do when a user thanks them for support?",
+    "options": ["Acknowledge politely", "Ignore them", "Be arrogant", "Demand a reward"],
+    "answer": "Acknowledge politely"
+  },
+  {
+    "id": 286,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "How should an admin behave during internal meetings?",
+    "options": ["Participate actively", "Remain silent always", "Interrupt constantly", "Not pay attention"],
+    "answer": "Participate actively"
+  },
+  {
+    "id": 287,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "What is the best way for an admin to deal with workplace stress?",
+    "options": ["Use stress management techniques", "Ignore it", "Blame others", "Quit immediately"],
+    "answer": "Use stress management techniques"
+  },
+  {
+    "id": 288,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "A user is confused about a new feature. What should the admin do?",
+    "options": ["Explain calmly", "Laugh at them", "Tell them to read manuals only", "Ignore"],
+    "answer": "Explain calmly"
+  },
+  {
+    "id": 289,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "What is the best teamwork behavior for an admin?",
+    "options": ["Support teammates", "Compete aggressively", "Avoid collaboration", "Ignore issues"],
+    "answer": "Support teammates"
+  },
+  {
+    "id": 290,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "What should an admin do when handling sensitive user issues?",
+    "options": ["Maintain confidentiality", "Discuss publicly", "Record without permission", "Publish online"],
+    "answer": "Maintain confidentiality"
+  },
+  {
+    "id": 291,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "How should an admin handle repetitive questions from users?",
+    "options": ["Explain patiently", "Get irritated", "Ignore them", "Say 'Figure it out'"],
+    "answer": "Explain patiently"
+  },
+  {
+    "id": 292,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "An admin notices a colleague violating policy. What should they do?",
+    "options": ["Report or guide them", "Join them", "Ignore it", "Encourage it"],
+    "answer": "Report or guide them"
+  },
+  {
+    "id": 293,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "What behavior improves workplace culture?",
+    "options": ["Respectfulness", "Rudeness", "Blame games", "Negativity"],
+    "answer": "Respectfulness"
+  },
+  {
+    "id": 294,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "How should an admin talk to team members?",
+    "options": ["With clarity and respect", "With anger", "With sarcasm", "By shouting"],
+    "answer": "With clarity and respect"
+  },
+  {
+    "id": 295,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "How should an admin prioritize work?",
+    "options": ["By urgency and importance", "Randomly", "Based on personal mood", "By ignoring tasks"],
+    "answer": "By urgency and importance"
+  },
+  {
+    "id": 296,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "What shows professionalism?",
+    "options": ["Being punctual", "Being rude", "Ignoring tasks", "Spreading gossip"],
+    "answer": "Being punctual"
+  },
+  {
+    "id": 297,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "A user blames the admin for an error they made. What should the admin do?",
+    "options": [
+      "Stay calm and explain professionally",
+      "Argue with them",
+      "Blame them back",
+      "Ignore the situation"
+    ],
+    "answer": "Stay calm and explain professionally"
+  },
+  {
+    "id": 298,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "How should an admin handle teamwork disagreements?",
+    "options": ["Resolve calmly", "Shout", "Avoid team", "Create more conflict"],
+    "answer": "Resolve calmly"
+  },
+  {
+    "id": 299,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "What should an admin do when users need help urgently?",
+    "options": ["Respond quickly", "Ignore", "Delay support", "Blame others"],
+    "answer": "Respond quickly"
+  },
+  {
+    "id": 300,
+    "role": "admin",
+    "category": "Behavioral",
+    "question": "What is the best approach for an admin to maintain work-life balance?",
+    "options": ["Set healthy boundaries", "Work nonstop", "Ignore personal life", "Always stay online"],
+    "answer": "Set healthy boundaries"
+  },
+   {
+    "id": 301,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "If all admins are employees and some employees are managers, which of the following is definitely true?",
+    "options": ["All admins are managers", "Some admins may be managers", "No admin can be a manager", "Admins are not employees"],
+    "answer": "Some admins may be managers"
+  },
+  {
+    "id": 302,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Find the missing number: 5, 10, 20, 40, ?",
+    "options": ["60", "70", "80", "100"],
+    "answer": "80"
+  },
+  {
+    "id": 303,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "If A is taller than B and B is taller than C, who is the shortest?",
+    "options": ["A", "B", "C", "None"],
+    "answer": "C"
+  },
+  {
+    "id": 304,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Which word does NOT belong: Excel, Word, PowerPoint, Python?",
+    "options": ["Excel", "Word", "PowerPoint", "Python"],
+    "answer": "Python"
+  },
+  {
+    "id": 305,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Find the odd number: 14, 21, 28, 35",
+    "options": ["14", "21", "28", "35"],
+    "answer": "14"
+  },
+  {
+    "id": 306,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "If TODAY = 79 and WORK = 62, what is CODE?",
+    "options": ["26", "40", "34", "20"],
+    "answer": "26"
+  },
+  {
+    "id": 307,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Which comes next? A1, C3, E5, G7, ?",
+    "options": ["I9", "H9", "I8", "J10"],
+    "answer": "I9"
+  },
+  {
+    "id": 308,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "If 12 admins complete a task in 6 days, how long will 6 admins take?",
+    "options": ["6 days", "10 days", "12 days", "15 days"],
+    "answer": "12 days"
+  },
+  {
+    "id": 309,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Find the next number: 3, 6, 12, 24, ?",
+    "options": ["36", "40", "48", "52"],
+    "answer": "48"
+  },
+  {
+    "id": 310,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "If ADMIN is coded as BEMJO, how is HR coded?",
+    "options": ["IS", "GS", "IQ", "JT"],
+    "answer": "IS"
+  },
+  {
+    "id": 311,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Which is the odd one out: Pen, Pencil, Eraser, Keyboard?",
+    "options": ["Pen", "Pencil", "Eraser", "Keyboard"],
+    "answer": "Keyboard"
+  },
+  {
+    "id": 312,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "If 1 → A, 2 → B, 3 → C, what is 26?",
+    "options": ["X", "Y", "Z", "W"],
+    "answer": "Z"
+  },
+  {
+    "id": 313,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Find the next pattern: 2, 4, 8, 16, ?",
+    "options": ["18", "20", "24", "32"],
+    "answer": "32"
+  },
+  {
+    "id": 314,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "If BLUE is coded as CVMF, what is RED?",
+    "options": ["SFE", "QDC", "TFE", "SFD"],
+    "answer": "SFE"
+  },
+  {
+    "id": 315,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Which number does NOT belong: 11, 21, 31, 41",
+    "options": ["11", "21", "31", "41"],
+    "answer": "21"
+  },
+  {
+    "id": 316,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Find the odd pair: (A,C), (B,D), (C,E), (D,G)",
+    "options": ["(A,C)", "(B,D)", "(C,E)", "(D,G)"],
+    "answer": "(D,G)"
+  },
+  {
+    "id": 317,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "If all important files are backed up, and some backed up files are old, which is true?",
+    "options": ["All old files are important", "Some important files may be old", "Old files cannot be important", "None"],
+    "answer": "Some important files may be old"
+  },
+  {
+    "id": 318,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Find the missing number: 7, 14, 28, 56, ?",
+    "options": ["84", "98", "112", "120"],
+    "answer": "112"
+  },
+  {
+    "id": 319,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "If OFFICE = PGGJDF, how is ADMIN coded?",
+    "options": ["BENJO", "BFOJO", "CFOJO", "BEMJO"],
+    "answer": "BEMJO"
+  },
+  {
+    "id": 320,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Which shape does NOT belong: Circle, Triangle, Square, Cylinder?",
+    "options": ["Circle", "Triangle", "Square", "Cylinder"],
+    "answer": "Cylinder"
+  },
+  {
+    "id": 321,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "What comes next: 9, 18, 27, 36, ?",
+    "options": ["40", "45", "48", "54"],
+    "answer": "45"
+  },
+  {
+    "id": 322,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Find the next pair: (1,2), (2,4), (3,6), (4,8), ?",
+    "options": ["(5,9)", "(5,10)", "(6,10)", "(5,8)"],
+    "answer": "(5,10)"
+  },
+  {
+    "id": 323,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "If FILE = GJMF, what is DATA?",
+    "options": ["EBUB", "CBUB", "FAUB", "DATAB"],
+    "answer": "EBUB"
+  },
+  {
+    "id": 324,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Choose the odd one: Monday, Friday, Sunday, October",
+    "options": ["Monday", "Friday", "Sunday", "October"],
+    "answer": "October"
+  },
+  {
+    "id": 325,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Find the missing: 4, 9, 16, 25, ?",
+    "options": ["30", "35", "36", "49"],
+    "answer": "36"
+  },
+  {
+    "id": 326,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "If 2 → 8, 3 → 27, 4 → 64, what is 5?",
+    "options": ["100", "125", "150", "225"],
+    "answer": "125"
+  },
+  {
+    "id": 327,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Which letter comes next? B, D, F, H, ?",
+    "options": ["I", "J", "K", "L"],
+    "answer": "J"
+  },
+  {
+    "id": 328,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Find the odd one: 24, 36, 48, 60",
+    "options": ["24", "36", "48", "60"],
+    "answer": "24"
+  },
+  {
+    "id": 329,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "If TEAM = UFBM, what is WORK?",
+    "options": ["XP SL", "XPSL", "VLQJ", "XQSL"],
+    "answer": "XPSL"
+  },
+  {
+    "id": 330,
+    "role": "admin",
+    "category": "Logical Reasoning",
+    "question": "Which one does NOT fit: Cat, Dog, Lion, Chair?",
+    "options": ["Cat", "Dog", "Lion", "Chair"],
+    "answer": "Chair"
+  },
+   {
+    "id": 331,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "What is the speed of light in a vacuum?",
+    "options": ["3 × 10^8 m/s", "1 × 10^6 m/s", "3 × 10^5 m/s", "5 × 10^8 m/s"],
+    "answer": "3 × 10^8 m/s"
+  },
+  {
+    "id": 332,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Who is known as the father of the computer?",
+    "options": ["Alan Turing", "Charles Babbage", "Tim Berners-Lee", "Dennis Ritchie"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "id": 333,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which gas is most abundant in Earth’s atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 334,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Who invented the World Wide Web?",
+    "options": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Mark Zuckerberg"],
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "id": 335,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+    "answer": "Mars"
+  },
+  {
+    "id": 336,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "What is the chemical formula of water?",
+    "options": ["H2O", "CO2", "O2", "H2SO4"],
+    "answer": "H2O"
+  },
+  {
+    "id": 337,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Program Utility", "Control Processing Unit", "Central Power Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": 338,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Copper", "Gold", "Aluminum"],
+    "answer": "Mercury"
+  },
+  {
+    "id": 339,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "What is the branch of science that studies earthquakes?",
+    "options": ["Geology", "Seismology", "Meteorology", "Astronomy"],
+    "answer": "Seismology"
+  },
+  {
+    "id": 340,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which device is used to measure temperature?",
+    "options": ["Barometer", "Thermometer", "Hygrometer", "Anemometer"],
+    "answer": "Thermometer"
+  },
+  {
+    "id": 341,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "What is the basic unit of life?",
+    "options": ["Atom", "Molecule", "Cell", "Organ"],
+    "answer": "Cell"
+  },
+  {
+    "id": 342,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which vitamin is produced when the skin is exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "id": 343,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "What is the SI unit of force?",
+    "options": ["Joule", "Watt", "Newton", "Pascal"],
+    "answer": "Newton"
+  },
+  {
+    "id": 344,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which scientist proposed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Stephen Hawking"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": 345,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "What is the study of fossils called?",
+    "options": ["Anthropology", "Paleontology", "Archaeology", "Mycology"],
+    "answer": "Paleontology"
+  },
+  {
+    "id": 346,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which organ in the human body purifies blood?",
+    "options": ["Lungs", "Heart", "Kidneys", "Liver"],
+    "answer": "Kidneys"
+  },
+  {
+    "id": 347,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "What is the nearest star to Earth?",
+    "options": ["Sirius", "Proxima Centauri", "Sun", "Alpha Centauri"],
+    "answer": "Sun"
+  },
+  {
+    "id": 348,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which instrument is used to study stars?",
+    "options": ["Microscope", "Telescope", "Periscope", "Stethoscope"],
+    "answer": "Telescope"
+  },
+  {
+    "id": 349,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which gas is essential for respiration?",
+    "options": ["Oxygen", "Nitrogen", "Hydrogen", "Helium"],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 350,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "What is the largest organ of the human body?",
+    "options": ["Heart", "Skin", "Liver", "Brain"],
+    "answer": "Skin"
+  },
+  {
+    "id": 351,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which blood cells help in clotting?",
+    "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "answer": "Platelets"
+  },
+  {
+    "id": 352,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which planet has the highest number of moons?",
+    "options": ["Earth", "Mars", "Jupiter", "Neptune"],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 353,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Gold", "Oxygen", "Osmium", "Zinc"],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 354,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which mirror is used in vehicle side mirrors?",
+    "options": ["Concave", "Convex", "Plane", "Parabolic"],
+    "answer": "Convex"
+  },
+  {
+    "id": 355,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which acid is found in lemon?",
+    "options": ["Sulphuric acid", "Citric acid", "Acetic acid", "Hydrochloric acid"],
+    "answer": "Citric acid"
+  },
+  {
+    "id": 356,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "What does DNA stand for?",
+    "options": ["Deoxyribonucleic Acid", "Digital Network Architecture", "Dynamic Neural Analysis", "None"],
+    "answer": "Deoxyribonucleic Acid"
+  },
+  {
+    "id": 357,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Methane"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 358,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which part of the plant conducts photosynthesis?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "answer": "Leaf"
+  },
+  {
+    "id": 359,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "The measure of sound intensity is?",
+    "options": ["Watt", "Joule", "Decibel", "Newton"],
+    "answer": "Decibel"
+  },
+  {
+    "id": 360,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 361,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which planet is the hottest in the solar system?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "id": 362,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which scientist discovered gravity?",
+    "options": ["Einstein", "Newton", "Galileo", "Copernicus"],
+    "answer": "Newton"
+  },
+  {
+    "id": 363,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "What is HCl commonly known as?",
+    "options": ["Acetic acid", "Hydrochloric acid", "Citric acid", "Nitric acid"],
+    "answer": "Hydrochloric acid"
+  },
+  {
+    "id": 364,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which device is used to measure atmospheric pressure?",
+    "options": ["Thermometer", "Hygrometer", "Barometer", "Anemometer"],
+    "answer": "Barometer"
+  },
+  {
+    "id": 365,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "What is the process by which plants lose water?",
+    "options": ["Respiration", "Transpiration", "Osmosis", "Evaporation"],
+    "answer": "Transpiration"
+  },
+  {
+    "id": 366,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which blood group is known as the universal donor?",
+    "options": ["A+", "B+", "O−", "AB+"],
+    "answer": "O−"
+  },
+  {
+    "id": 367,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which is the smallest planet in the solar system?",
+    "options": ["Earth", "Mars", "Pluto", "Mercury"],
+    "answer": "Mercury"
+  },
+  {
+    "id": 368,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which organ controls all body functions?",
+    "options": ["Heart", "Brain", "Liver", "Lungs"],
+    "answer": "Brain"
+  },
+  {
+    "id": 369,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which polymer is used to make plastic bags?",
+    "options": ["Nylon", "PVC", "Polyethylene", "Bakelite"],
+    "answer": "Polyethylene"
+  },
+  {
+    "id": 370,
+    "role": "gk",
+    "category": "Science & Tech",
+    "question": "Which bacterial disease affects the lungs?",
+    "options": ["Cholera", "Tuberculosis", "Typhoid", "Dengue"],
+    "answer": "Tuberculosis"
+  },
+  {
+    "id": 371,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Who is the current President of India?",
+    "options": ["Ram Nath Kovind", "Droupadi Murmu", "Pratibha Patil", "Narendra Modi"],
+    "answer": "Droupadi Murmu"
+  },
+  {
+    "id": 372,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which country hosted the G20 Summit in 2023?",
+    "options": ["USA", "India", "Japan", "Germany"],
+    "answer": "India"
+  },
+  {
+    "id": 373,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which company became the world’s first $3 trillion company?",
+    "options": ["Amazon", "Microsoft", "Apple", "Google"],
+    "answer": "Apple"
+  },
+  {
+    "id": 374,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Who is the current Chief Justice of India (CJI)?",
+    "options": ["N. V. Ramana", "D. Y. Chandrachud", "Ranjan Gogoi", "Arun Mishra"],
+    "answer": "D. Y. Chandrachud"
+  },
+  {
+    "id": 375,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which country won the ICC Cricket World Cup 2023?",
+    "options": ["India", "England", "Australia", "New Zealand"],
+    "answer": "Australia"
+  },
+  {
+    "id": 376,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "What is the name of India’s third moon mission?",
+    "options": ["Chandrayaan-1", "Chandrayaan-2", "Chandrayaan-3", "Gaganyaan"],
+    "answer": "Chandrayaan-3"
+  },
+  {
+    "id": 377,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "India's Aadhaar program is managed by which authority?",
+    "options": ["NPCI", "UIDAI", "NITI Aayog", "RBI"],
+    "answer": "UIDAI"
+  },
+  {
+    "id": 378,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which Indian state launched the 'Mukhyamantri Ladli Behna Yojana'?",
+    "options": ["Punjab", "Madhya Pradesh", "Bihar", "Uttar Pradesh"],
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "id": 379,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which country won the FIFA World Cup 2022?",
+    "options": ["Brazil", "Germany", "France", "Argentina"],
+    "answer": "Argentina"
+  },
+  {
+    "id": 380,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which Indian city topped the Smart Cities Index 2023?",
+    "options": ["Surat", "Indore", "Ahmedabad", "Pune"],
+    "answer": "Indore"
+  },
+  {
+    "id": 381,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Who is the current CEO of Twitter (X) after Elon Musk?",
+    "options": ["Tim Cook", "Linda Yaccarino", "Sundar Pichai", "Satya Nadella"],
+    "answer": "Linda Yaccarino"
+  },
+  {
+    "id": 382,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which country recently became the 31st member of NATO?",
+    "options": ["Sweden", "Finland", "Ukraine", "Ireland"],
+    "answer": "Finland"
+  },
+  {
+    "id": 383,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which Indian airport is ranked the world’s busiest?",
+    "options": ["Delhi Airport", "Mumbai Airport", "Bengaluru Airport", "Hyderabad Airport"],
+    "answer": "Delhi Airport"
+  },
+  {
+    "id": 384,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which company launched India’s first 5G services?",
+    "options": ["BSNL", "Airtel", "Vodafone", "Jio"],
+    "answer": "Airtel"
+  },
+  {
+    "id": 385,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which state topped India’s literacy rate in 2023?",
+    "options": ["Kerala", "Tamil Nadu", "Goa", "Maharashtra"],
+    "answer": "Kerala"
+  },
+  {
+    "id": 386,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which digital payment system is developed by NPCI?",
+    "options": ["Google Pay", "UPI", "Paytm", "PhonePe"],
+    "answer": "UPI"
+  },
+  {
+    "id": 387,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which country recently landed the first spacecraft on the far side of the moon?",
+    "options": ["USA", "Russia", "China", "Japan"],
+    "answer": "China"
+  },
+  {
+    "id": 388,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which tech company launched the AI model 'Gemini'?",
+    "options": ["Meta", "Google", "OpenAI", "IBM"],
+    "answer": "Google"
+  },
+  {
+    "id": 389,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "India signed a deal with which country for building nuclear submarines?",
+    "options": ["France", "USA", "Russia", "Japan"],
+    "answer": "France"
+  },
+  {
+    "id": 390,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which Indian city will host the 2036 Olympics (expected proposal)?",
+    "options": ["Mumbai", "Ahmedabad", "New Delhi", "Bengaluru"],
+    "answer": "Ahmedabad"
+  },
+  {
+    "id": 391,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which Indian payment app crossed 100 million UPI transactions daily?",
+    "options": ["PhonePe", "Google Pay", "Paytm", "Amazon Pay"],
+    "answer": "PhonePe"
+  },
+  {
+    "id": 392,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which country discovered the world’s first malaria vaccine?",
+    "options": ["Japan", "India", "USA", "UK"],
+    "answer": "UK"
+  },
+  {
+    "id": 393,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which Indian state launched the 'Mission 414' education reform?",
+    "options": ["Gujarat", "Kerala", "Odisha", "Rajasthan"],
+    "answer": "Gujarat"
+  },
+  {
+    "id": 394,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "NASA's Artemis mission aims to return humans to which celestial body?",
+    "options": ["Mars", "Moon", "Venus", "Jupiter"],
+    "answer": "Moon"
+  },
+  {
+    "id": 395,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which Indian city hosted the Global Fintech Festival 2023?",
+    "options": ["Delhi", "Mumbai", "Hyderabad", "Chennai"],
+    "answer": "Mumbai"
+  },
+  {
+    "id": 396,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which Indian cricketer won the ICC Men's Cricketer of the Year 2023 award?",
+    "options": ["Virat Kohli", "Rohit Sharma", "Shubman Gill", "Jasprit Bumrah"],
+    "answer": "Shubman Gill"
+  },
+  {
+    "id": 397,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which country launched the world’s first 6G satellite?",
+    "options": ["USA", "Japan", "China", "South Korea"],
+    "answer": "China"
+  },
+  {
+    "id": 398,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "What is the name of ISRO’s solar mission?",
+    "options": ["Aditya-L1", "Astra-1", "Surya-1", "Apollo-1"],
+    "answer": "Aditya-L1"
+  },
+  {
+    "id": 399,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which Indian state is the first to implement a guaranteed women’s income scheme?",
+    "options": ["Tamil Nadu", "Delhi", "Karnataka", "Bihar"],
+    "answer": "Karnataka"
+  },
+  {
+    "id": 400,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which company acquired Activision Blizzard in a record tech deal?",
+    "options": ["Sony", "Tencent", "Microsoft", "Apple"],
+    "answer": "Microsoft"
+  },
+  {
+    "id": 401,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which country topped the Global Innovation Index 2023?",
+    "options": ["USA", "Sweden", "Switzerland", "Japan"],
+    "answer": "Switzerland"
+  },
+  {
+    "id": 402,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which two countries signed a peace agreement in 2023 after decades-long conflict?",
+    "options": ["Armenia & Azerbaijan", "North Korea & South Korea", "Russia & Ukraine", "Israel & Palestine"],
+    "answer": "Armenia & Azerbaijan"
+  },
+  {
+    "id": 403,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which Indian state reported the highest GDP growth in 2023?",
+    "options": ["Gujarat", "Karnataka", "Andhra Pradesh", "Maharashtra"],
+    "answer": "Andhra Pradesh"
+  },
+  {
+    "id": 404,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "RBI launched which payment method for offline payments?",
+    "options": ["UPI Lite", "UPI+","NFC Pay", "QR Swift"],
+    "answer": "UPI Lite"
+  },
+  {
+    "id": 405,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which country became the newest BRICS member in 2024?",
+    "options": ["Saudi Arabia", "Israel", "Turkey", "Singapore"],
+    "answer": "Saudi Arabia"
+  },
+  {
+    "id": 406,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which country won the Asia Cup Cricket 2023?",
+    "options": ["India", "Sri Lanka", "Pakistan", "Bangladesh"],
+    "answer": "India"
+  },
+  {
+    "id": 407,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "India successfully tested which long-range missile in 2023?",
+    "options": ["Agni-5", "Prithvi-3", "BrahMos-II", "Akash-NG"],
+    "answer": "Agni-5"
+  },
+  {
+    "id": 408,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which Indian company became the world's most valuable telecom firm?",
+    "options": ["Airtel", "Vodafone Idea", "Jio", "BSNL"],
+    "answer": "Jio"
+  },
+  {
+    "id": 409,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Which is the world’s most downloaded app in 2023?",
+    "options": ["Instagram", "TikTok", "WhatsApp", "Telegram"],
+    "answer": "TikTok"
+  },
+  {
+    "id": 410,
+    "role": "gk",
+    "category": "Current Affairs",
+    "question": "Who won the Nobel Peace Prize 2023?",
+    "options": ["Narges Mohammadi", "Malala Yousafzai", "Greta Thunberg", "Barack Obama"],
+    "answer": "Narges Mohammadi"
+  },
+  {
+    "id": 411,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who was the first Emperor of the Maurya Dynasty?",
+    "options": ["Ashoka", "Bindusara", "Chandragupta Maurya", "Ajatashatru"],
+    "answer": "Chandragupta Maurya"
+  },
+  {
+    "id": 412,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who is known as the 'Father of Indian Renaissance'?",
+    "options": ["Raja Ram Mohan Roy", "Dayananda Saraswati", "Gandhi", "Tilak"],
+    "answer": "Raja Ram Mohan Roy"
+  },
+  {
+    "id": 413,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "The Battle of Plassey was fought in which year?",
+    "options": ["1757", "1764", "1857", "1707"],
+    "answer": "1757"
+  },
+  {
+    "id": 414,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who founded the Indian National Congress?",
+    "options": ["A.O. Hume", "Dadabhai Naoroji", "Tilak", "Gokhale"],
+    "answer": "A.O. Hume"
+  },
+  {
+    "id": 415,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who wrote the book 'Arthashastra'?",
+    "options": ["Kalidasa", "Chanakya", "Banabhatta", "Valmiki"],
+    "answer": "Chanakya"
+  },
+  {
+    "id": 416,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who is known as the 'Iron Man of India'?",
+    "options": ["Gandhi", "Sardar Patel", "Subhash Bose", "Nehru"],
+    "answer": "Sardar Patel"
+  },
+  {
+    "id": 417,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who gave the slogan 'Swaraj is my birthright'?",
+    "options": ["Gandhi", "Tilak", "Netaji", "Nehru"],
+    "answer": "Tilak"
+  },
+  {
+    "id": 418,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who was the first female ruler of Delhi?",
+    "options": ["Razia Sultana", "Nur Jahan", "Jodha Bai", "Laxmi Bai"],
+    "answer": "Razia Sultana"
+  },
+  {
+    "id": 419,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "The Civil Disobedience Movement was launched in which year?",
+    "options": ["1929", "1930", "1932", "1942"],
+    "answer": "1930"
+  },
+  {
+    "id": 420,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "The Dandi March was related to which law?",
+    "options": ["Salt Law", "Press Act", "Arms Act", "Rowlatt Act"],
+    "answer": "Salt Law"
+  },
+  {
+    "id": 421,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who was known as 'Napoleon of India'?",
+    "options": ["Samudragupta", "Harshavardhana", "Chandragupta II", "Pulakeshin"],
+    "answer": "Samudragupta"
+  },
+  {
+    "id": 422,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who built the Qutub Minar?",
+    "options": ["Iltutmish", "Qutub-ud-din Aibak", "Alauddin Khilji", "Babur"],
+    "answer": "Qutub-ud-din Aibak"
+  },
+  {
+    "id": 423,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who was the founder of the Mughal Empire?",
+    "options": ["Babur", "Akbar", "Humayun", "Shah Jahan"],
+    "answer": "Babur"
+  },
+  {
+    "id": 424,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Where did Buddha attain enlightenment?",
+    "options": ["Kushinagar", "Sarnath", "Bodh Gaya", "Lumbini"],
+    "answer": "Bodh Gaya"
+  },
+  {
+    "id": 425,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "The Harappan civilization is also known as?",
+    "options": ["Indus Valley Civilization", "Aryan Civilization", "Vedic Civilization", "Mesopotamian Civilization"],
+    "answer": "Indus Valley Civilization"
+  },
+  {
+    "id": 426,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who was the last Governor-General of independent India?",
+    "options": ["Mountbatten", "C. Rajagopalachari", "Nehru", "Patel"],
+    "answer": "C. Rajagopalachari"
+  },
+  {
+    "id": 427,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "The Jallianwala Bagh massacre happened in which year?",
+    "options": ["1915", "1919", "1921", "1925"],
+    "answer": "1919"
+  },
+  {
+    "id": 428,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "The Khilafat Movement was started to protest against the injustice done to whom?",
+    "options": ["Ottoman Caliph", "Iranian King", "British PM", "German King"],
+    "answer": "Ottoman Caliph"
+  },
+  {
+    "id": 429,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who introduced the Subsidiary Alliance?",
+    "options": ["Dalhousie", "Wellesley", "Cornwallis", "Hastings"],
+    "answer": "Wellesley"
+  },
+  {
+    "id": 430,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who built the Red Fort in Delhi?",
+    "options": ["Akbar", "Shah Jahan", "Humayun", "Aurangzeb"],
+    "answer": "Shah Jahan"
+  },
+  {
+    "id": 431,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Which movement is associated with the slogan 'Do or Die'?",
+    "options": ["Non-Cooperation Movement", "Quit India Movement", "Civil Disobedience", "Swadeshi Movement"],
+    "answer": "Quit India Movement"
+  },
+  {
+    "id": 432,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "The Battle of Buxar was fought in?",
+    "options": ["1764", "1757", "1857", "1707"],
+    "answer": "1764"
+  },
+  {
+    "id": 433,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who was the first Indian woman to become President of India?",
+    "options": ["Sarojini Naidu", "Pratibha Patil", "Indira Gandhi", "Annie Besant"],
+    "answer": "Pratibha Patil"
+  },
+  {
+    "id": 434,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who was the founder of the Gupta Empire?",
+    "options": ["Samudragupta", "Chandragupta I", "Kumaragupta", "Skandagupta"],
+    "answer": "Chandragupta I"
+  },
+  {
+    "id": 435,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who is known as the 'Frontier Gandhi'?",
+    "options": ["Bhagat Singh", "Badshah Khan", "Rajguru", "Bismil"],
+    "answer": "Badshah Khan"
+  },
+  {
+    "id": 436,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who was the first Mughal emperor to ban sati?",
+    "options": ["Babur", "Akbar", "Jahangir", "Shah Jahan"],
+    "answer": "Akbar"
+  },
+  {
+    "id": 437,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who composed the national anthem of India?",
+    "options": ["Bankim Chandra", "Tagore", "Sarojini Naidu", "Bhagat Singh"],
+    "answer": "Tagore"
+  },
+  {
+    "id": 438,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who started the Home Rule Movement?",
+    "options": ["Tilak", "Annie Besant", "Gandhi", "Gokhale"],
+    "answer": "Annie Besant"
+  },
+  {
+    "id": 439,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who was the Viceroy during the Partition of Bengal?",
+    "options": ["Curzon", "Mountbatten", "Ripon", "Dalhousie"],
+    "answer": "Curzon"
+  },
+  {
+    "id": 440,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "The capital of the Maurya Empire was?",
+    "options": ["Varanasi", "Patliputra", "Takshashila", "Ayodhya"],
+    "answer": "Patliputra"
+  },
+  {
+    "id": 441,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Which leader formed the Forward Bloc?",
+    "options": ["Gandhi", "Nehru", "Subhash Chandra Bose", "Tilak"],
+    "answer": "Subhash Chandra Bose"
+  },
+  {
+    "id": 442,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who was the last Mughal emperor?",
+    "options": ["Akbar II", "Bahadur Shah II", "Shah Alam", "Shah Jahan"],
+    "answer": "Bahadur Shah II"
+  },
+  {
+    "id": 443,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "The 'Doab' region refers to the land between which rivers?",
+    "options": ["Ganga–Yamuna", "Yamuna–Sutlej", "Ganga–Ghagra", "Narmada–Tapti"],
+    "answer": "Ganga–Yamuna"
+  },
+  {
+    "id": 444,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who led the Revolt of 1857 in Kanpur?",
+    "options": ["Rani Laxmi Bai", "Tatya Tope", "Nana Saheb", "Kunwar Singh"],
+    "answer": "Nana Saheb"
+  },
+  {
+    "id": 445,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who established the Ramakrishna Mission?",
+    "options": ["Ramakrishna", "Vivekananda", "Dayananda", "Aurobindo"],
+    "answer": "Vivekananda"
+  },
+  {
+    "id": 446,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Gandhi started his first Satyagraha in India at?",
+    "options": ["Champaran", "Bardoli", "Kheda", "Ahmedabad"],
+    "answer": "Champaran"
+  },
+  {
+    "id": 447,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who was the first Indian to win the Nobel Prize?",
+    "options": ["CV Raman", "Tagore", "Mother Teresa", "Hargobind Khorana"],
+    "answer": "Tagore"
+  },
+  {
+    "id": 448,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who wrote 'Anandmath'?",
+    "options": ["Bankim Chandra Chatterjee", "Tagore", "Saratchandra", "Ishwar Chandra Vidyasagar"],
+    "answer": "Bankim Chandra Chatterjee"
+  },
+  {
+    "id": 449,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "The Chola dynasty ruled mainly in which region?",
+    "options": ["North India", "South India", "East India", "West India"],
+    "answer": "South India"
+  },
+  {
+    "id": 450,
+    "role": "gk",
+    "category": "Indian History",
+    "question": "Who was the founder of the Sikh religion?",
+    "options": ["Guru Arjan", "Guru Gobind Singh", "Guru Nanak", "Guru Teg Bahadur"],
+    "answer": "Guru Nanak"
+  },
+  {
+    "id": 451,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the largest continent in the world?",
+    "options": ["Africa", "Asia", "Europe", "North America"],
+    "answer": "Asia"
+  },
+  {
+    "id": 452,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Ganga"],
+    "answer": "Nile"
+  },
+  {
+    "id": 453,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": 454,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Mount Everest is located in which mountain range?",
+    "options": ["Andes", "Alps", "Himalayas", "Rockies"],
+    "answer": "Himalayas"
+  },
+  {
+    "id": 455,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which country has the largest population in the world?",
+    "options": ["India", "USA", "China", "Russia"],
+    "answer": "India"
+  },
+  {
+    "id": 456,
+    "role": "gk",
+    "category": "Geography",
+    "question": "The Tropic of Cancer passes through how many Indian states?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "id": 457,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the largest desert in the world?",
+    "options": ["Gobi", "Kalahari", "Sahara", "Arabian"],
+    "answer": "Sahara"
+  },
+  {
+    "id": 458,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the smallest continent?",
+    "options": ["Australia", "Europe", "Antarctica", "South America"],
+    "answer": "Australia"
+  },
+  {
+    "id": 459,
+    "role": "gk",
+    "category": "Geography",
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": "Canberra"
+  },
+  {
+    "id": 460,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which river is known as the 'Sorrow of Bengal'?",
+    "options": ["Ganga", "Damodar", "Kosi", "Teesta"],
+    "answer": "Damodar"
+  },
+  {
+    "id": 461,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which city is called the 'City of Seven Hills'?",
+    "options": ["London", "Rome", "Athens", "Paris"],
+    "answer": "Rome"
+  },
+  {
+    "id": 462,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of Midnight Sun'?",
+    "options": ["Finland", "Norway", "Sweden", "Russia"],
+    "answer": "Norway"
+  },
+  {
+    "id": 463,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the deepest point in the world's oceans?",
+    "options": ["Tonga Trench", "Puerto Rico Trench", "Mariana Trench", "Java Trench"],
+    "answer": "Mariana Trench"
+  },
+  {
+    "id": 464,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the largest island in the world?",
+    "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+    "answer": "Greenland"
+  },
+  {
+    "id": 465,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which river flows through Paris?",
+    "options": ["Danube", "Seine", "Rhine", "Volga"],
+    "answer": "Seine"
+  },
+  {
+    "id": 466,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the highest waterfall in the world?",
+    "options": ["Niagara Falls", "Angel Falls", "Iguazu Falls", "Victoria Falls"],
+    "answer": "Angel Falls"
+  },
+  {
+    "id": 467,
+    "role": "gk",
+    "category": "Geography",
+    "question": "The Great Barrier Reef is located in which country?",
+    "options": ["USA", "South Africa", "Australia", "Indonesia"],
+    "answer": "Australia"
+  },
+  {
+    "id": 468,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which lake is the largest freshwater lake in the world by area?",
+    "options": ["Lake Baikal", "Lake Superior", "Lake Victoria", "Lake Tanganyika"],
+    "answer": "Lake Superior"
+  },
+  {
+    "id": 469,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of Rising Sun'?",
+    "options": ["Japan", "China", "India", "Thailand"],
+    "answer": "Japan"
+  },
+  {
+    "id": 470,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the largest African country by area?",
+    "options": ["Nigeria", "Ethiopia", "Algeria", "Sudan"],
+    "answer": "Algeria"
+  },
+  {
+    "id": 471,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which line divides the Earth into Northern and Southern Hemispheres?",
+    "options": ["Tropic of Cancer", "Equator", "Prime Meridian", "Longitude 180"],
+    "answer": "Equator"
+  },
+  {
+    "id": 472,
+    "role": "gk",
+    "category": "Geography",
+    "question": "The highest peak in Africa is?",
+    "options": ["Mount Kenya", "Mount Kilimanjaro", "Mount Elgon", "Atlas Mountains"],
+    "answer": "Mount Kilimanjaro"
+  },
+  {
+    "id": 473,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which country has the most number of time zones?",
+    "options": ["USA", "Russia", "China", "Canada"],
+    "answer": "Russia"
+  },
+  {
+    "id": 474,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the longest river in India?",
+    "options": ["Yamuna", "Brahmaputra", "Ganga", "Godavari"],
+    "answer": "Ganga"
+  },
+  {
+    "id": 475,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which state in India has the longest coastline?",
+    "options": ["Tamil Nadu", "Maharashtra", "Andhra Pradesh", "Gujarat"],
+    "answer": "Gujarat"
+  },
+  {
+    "id": 476,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which sea separates Africa from Europe?",
+    "options": ["Black Sea", "Red Sea", "Mediterranean Sea", "Arabian Sea"],
+    "answer": "Mediterranean Sea"
+  },
+  {
+    "id": 477,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the largest peninsula in the world?",
+    "options": ["Iberian Peninsula", "Arabian Peninsula", "Deccan Plateau", "Korean Peninsula"],
+    "answer": "Arabian Peninsula"
+  },
+  {
+    "id": 478,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which river is known as the lifeline of Egypt?",
+    "options": ["Amazon", "Danube", "Nile", "Zambezi"],
+    "answer": "Nile"
+  },
+  {
+    "id": 479,
+    "role": "gk",
+    "category": "Geography",
+    "question": "The Dead Sea is famous for its?",
+    "options": ["Freshwater", "High salt content", "Huge islands", "Marine life"],
+    "answer": "High salt content"
+  },
+  {
+    "id": 480,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which country is both in Asia and Europe?",
+    "options": ["India", "Turkey", "Saudi Arabia", "Iran"],
+    "answer": "Turkey"
+  },
+  {
+    "id": 481,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the largest river island in the world?",
+    "options": ["Majuli", "Sundarbans", "Andaman", "Borneo"],
+    "answer": "Majuli"
+  },
+  {
+    "id": 482,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Where is the Great Rift Valley located?",
+    "options": ["Asia", "Africa", "Europe", "Australia"],
+    "answer": "Africa"
+  },
+  {
+    "id": 483,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the hottest desert in the world?",
+    "options": ["Gobi Desert", "Atacama Desert", "Sahara Desert", "Arabian Desert"],
+    "answer": "Sahara Desert"
+  },
+  {
+    "id": 484,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which city lies on the banks of the River Thames?",
+    "options": ["London", "Berlin", "Rome", "Lisbon"],
+    "answer": "London"
+  },
+  {
+    "id": 485,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which is the coldest place on Earth?",
+    "options": ["Siberia", "Antarctica", "Greenland", "Iceland"],
+    "answer": "Antarctica"
+  },
+  {
+    "id": 486,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+    "options": ["Haryana", "Punjab", "Uttar Pradesh", "Bihar"],
+    "answer": "Punjab"
+  },
+  {
+    "id": 487,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which continent has no desert?",
+    "options": ["Europe", "Asia", "Africa", "South America"],
+    "answer": "Europe"
+  },
+  {
+    "id": 488,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which Indian river forms the largest delta in the world?",
+    "options": ["Godavari", "Krishna", "Brahmaputra–Ganga", "Narmada"],
+    "answer": "Brahmaputra–Ganga"
+  },
+  {
+    "id": 489,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which city is known as the 'Silicon Valley of India'?",
+    "options": ["Hyderabad", "Chennai", "Pune", "Bengaluru"],
+    "answer": "Bengaluru"
+  },
+  {
+    "id": 490,
+    "role": "gk",
+    "category": "Geography",
+    "question": "Which ocean is the smallest?",
+    "options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "answer": "Arctic Ocean"
+  },
+  {
+    "id": 491,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which country won the FIFA World Cup 2022?",
+    "options": ["France", "Argentina", "Brazil", "Germany"],
+    "answer": "Argentina"
+  },
+  {
+    "id": 492,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Who is known as the 'God of Cricket'?",
+    "options": ["MS Dhoni", "Virat Kohli", "Sachin Tendulkar", "Ricky Ponting"],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 493,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which country hosts the Wimbledon tennis tournament?",
+    "options": ["USA", "Australia", "France", "United Kingdom"],
+    "answer": "United Kingdom"
+  },
+  {
+    "id": 494,
+    "role": "gk",
+    "category": "Sports",
+    "question": "How many players are there in a basketball team on the court?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "id": 495,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Who won the Ballon d'Or 2023?",
+    "options": ["Kylian Mbappé", "Erling Haaland", "Cristiano Ronaldo", "Lionel Messi"],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 496,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which country hosted the Olympics 2021?",
+    "options": ["Brazil", "Japan", "USA", "China"],
+    "answer": "Japan"
+  },
+  {
+    "id": 497,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which sport uses the term 'Love'?",
+    "options": ["Badminton", "Tennis", "Cricket", "Football"],
+    "answer": "Tennis"
+  },
+  {
+    "id": 498,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Who is the captain of the Indian men's cricket team (2024)?",
+    "options": ["Rohit Sharma", "Virat Kohli", "KL Rahul", "Hardik Pandya"],
+    "answer": "Rohit Sharma"
+  },
+  {
+    "id": 499,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which of the following is a hockey tournament?",
+    "options": ["Ranji Trophy", "Sultan Azlan Shah Cup", "Davis Cup", "Thomas Cup"],
+    "answer": "Sultan Azlan Shah Cup"
+  },
+  {
+    "id": 500,
+    "role": "gk",
+    "category": "Sports",
+    "question": "How long is a marathon race?",
+    "options": ["26 miles", "42.195 km", "20 km", "50 miles"],
+    "answer": "42.195 km"
+  },
+  {
+    "id": 501,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which cricketer is known as 'Captain Cool'?",
+    "options": ["Rohit Sharma", "MS Dhoni", "Kane Williamson", "Steve Smith"],
+    "answer": "MS Dhoni"
+  },
+  {
+    "id": 502,
+    "role": "gk",
+    "category": "Sports",
+    "question": "What is the national sport of Japan?",
+    "options": ["Karate", "Judo", "Sumo Wrestling", "Kendo"],
+    "answer": "Sumo Wrestling"
+  },
+  {
+    "id": 503,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which country hosts the Tour de France?",
+    "options": ["Germany", "Spain", "France", "Italy"],
+    "answer": "France"
+  },
+  {
+    "id": 504,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Who holds the record for the fastest 100m sprint?",
+    "options": ["Carl Lewis", "Usain Bolt", "Yohan Blake", "Tyson Gay"],
+    "answer": "Usain Bolt"
+  },
+  {
+    "id": 505,
+    "role": "gk",
+    "category": "Sports",
+    "question": "In which sport is the term 'Birdie' used?",
+    "options": ["Golf", "Tennis", "Badminton", "Cricket"],
+    "answer": "Golf"
+  },
+  {
+    "id": 506,
+    "role": "gk",
+    "category": "Sports",
+    "question": "How many rings are there in the Olympic symbol?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "id": 507,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which sport is associated with the Ryder Cup?",
+    "options": ["Tennis", "Golf", "Football", "Hockey"],
+    "answer": "Golf"
+  },
+  {
+    "id": 508,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Who is known as the 'Flying Sikh' of India?",
+    "options": ["Milkha Singh", "P. T. Usha", "Neeraj Chopra", "Bhaichung Bhutia"],
+    "answer": "Milkha Singh"
+  },
+  {
+    "id": 509,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which country has won the most Cricket World Cups?",
+    "options": ["India", "Australia", "England", "Pakistan"],
+    "answer": "Australia"
+  },
+  {
+    "id": 510,
+    "role": "gk",
+    "category": "Sports",
+    "question": "What is the full form of IPL?",
+    "options": ["International Premier League", "Indian Player League", "Indian Premier League", "International Player League"],
+    "answer": "Indian Premier League"
+  },
+  {
+    "id": 511,
+    "role": "gk",
+    "category": "Sports",
+    "question": "The term 'hat-trick' belongs to which sport?",
+    "options": ["Football", "Cricket", "Hockey", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": 512,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Who won the ICC T20 World Cup 2024?",
+    "options": ["Australia", "India", "England", "New Zealand"],
+    "answer": "India"
+  },
+  {
+    "id": 513,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which sport is PV Sindhu associated with?",
+    "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+    "answer": "Badminton"
+  },
+  {
+    "id": 514,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which cricket stadium is the largest in the world?",
+    "options": ["MCG", "Eden Gardens", "Narendra Modi Stadium", "Lords"],
+    "answer": "Narendra Modi Stadium"
+  },
+  {
+    "id": 515,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Who is the first Indian to win an individual Olympic gold medal?",
+    "options": ["Abhinav Bindra", "Neeraj Chopra", "Rajyavardhan Rathore", "Leander Paes"],
+    "answer": "Abhinav Bindra"
+  },
+  {
+    "id": 516,
+    "role": "gk",
+    "category": "Sports",
+    "question": "What is the national sport of India?",
+    "options": ["Cricket", "Hockey", "Kabaddi", "None (India has no official national sport)"],
+    "answer": "None (India has no official national sport)"
+  },
+  {
+    "id": 517,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which country won the most gold medals in Tokyo Olympics 2021?",
+    "options": ["USA", "China", "Japan", "Russia"],
+    "answer": "USA"
+  },
+  {
+    "id": 518,
+    "role": "gk",
+    "category": "Sports",
+    "question": "The term 'googly' is used in which sport?",
+    "options": ["Football", "Cricket", "Tennis", "Basketball"],
+    "answer": "Cricket"
+  },
+  {
+    "id": 519,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which sport uses a shuttlecock?",
+    "options": ["Tennis", "Badminton", "Squash", "Golf"],
+    "answer": "Badminton"
+  },
+  {
+    "id": 520,
+    "role": "gk",
+    "category": "Sports",
+    "question": "How many minutes are there in a football match (normal time)?",
+    "options": ["60", "80", "90", "100"],
+    "answer": "90"
+  },
+  {
+    "id": 521,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which country invented volleyball?",
+    "options": ["USA", "Brazil", "France", "Canada"],
+    "answer": "USA"
+  },
+  {
+    "id": 522,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which Indian athlete won gold in javelin at the Tokyo Olympics?",
+    "options": ["Bajrang Punia", "Neeraj Chopra", "Ravi Kumar", "Yogeshwar Dutt"],
+    "answer": "Neeraj Chopra"
+  },
+  {
+    "id": 523,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Who is the highest run-scorer in ODI cricket?",
+    "options": ["Virat Kohli", "Sachin Tendulkar", "Ricky Ponting", "Brian Lara"],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 524,
+    "role": "gk",
+    "category": "Sports",
+    "question": "In which sport is the Thomas Cup awarded?",
+    "options": ["Tennis", "Badminton", "Football", "Hockey"],
+    "answer": "Badminton"
+  },
+  {
+    "id": 525,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Where is the headquarters of the International Olympic Committee (IOC)?",
+    "options": ["Paris", "Lausanne", "London", "Berlin"],
+    "answer": "Lausanne"
+  },
+  {
+    "id": 526,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which country won the ICC ODI World Cup 2011?",
+    "options": ["India", "Sri Lanka", "Australia", "England"],
+    "answer": "India"
+  },
+  {
+    "id": 527,
+    "role": "gk",
+    "category": "Sports",
+    "question": "What is the length of a cricket pitch?",
+    "options": ["18 yards", "20 yards", "22 yards", "24 yards"],
+    "answer": "22 yards"
+  },
+  {
+    "id": 528,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which sport is associated with the term 'slam dunk'?",
+    "options": ["Tennis", "Basketball", "Football", "Hockey"],
+    "answer": "Basketball"
+  },
+  {
+    "id": 529,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Which team has won the most IPL titles?",
+    "options": ["Chennai Super Kings", "Mumbai Indians", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+    "answer": "Mumbai Indians"
+  },
+  {
+    "id": 530,
+    "role": "gk",
+    "category": "Sports",
+    "question": "Who is known as the 'Dhing Express'?",
+    "options": ["Hima Das", "Dutee Chand", "Saina Nehwal", "Mary Kom"],
+    "answer": "Hima Das"
+  },
+   {
+    "id": 531,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": ["Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Patel", "Rajendra Prasad"],
+    "answer": "Dr. B.R. Ambedkar"
+  },
+  {
+    "id": 532,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "How many fundamental rights are there in the Indian Constitution?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 533,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which Article of the Constitution abolishes 'Untouchability'?",
+    "options": ["Article 14", "Article 17", "Article 19", "Article 21"],
+    "answer": "Article 17"
+  },
+  {
+    "id": 534,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Who was the first President of India?",
+    "options": ["Dr. S. Radhakrishnan", "Rajendra Prasad", "Zakir Hussain", "V.V. Giri"],
+    "answer": "Rajendra Prasad"
+  },
+  {
+    "id": 535,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which part of the Constitution deals with Fundamental Rights?",
+    "options": ["Part I", "Part II", "Part III", "Part IV"],
+    "answer": "Part III"
+  },
+  {
+    "id": 536,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which Article guarantees the 'Right to Equality'?",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+    "answer": "Article 14"
+  },
+  {
+    "id": 537,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "How many schedules are there in the Indian Constitution?",
+    "options": ["10", "12", "8", "14"],
+    "answer": "12"
+  },
+  {
+    "id": 538,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "When was the Constitution of India adopted?",
+    "options": ["26 January 1950", "15 August 1947", "26 November 1949", "30 January 1950"],
+    "answer": "26 November 1949"
+  },
+  {
+    "id": 539,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which Article guarantees the 'Right to Life and Personal Liberty'?",
+    "options": ["Article 19", "Article 21", "Article 18", "Article 22"],
+    "answer": "Article 21"
+  },
+  {
+    "id": 540,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which body conducts elections in India?",
+    "options": ["Supreme Court", "Election Commission", "Parliament", "Lok Sabha"],
+    "answer": "Election Commission"
+  },
+  {
+    "id": 541,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "How many members are nominated to the Rajya Sabha by the President?",
+    "options": ["10", "12", "8", "15"],
+    "answer": "12"
+  },
+  {
+    "id": 542,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which Amendment lowered the voting age from 21 to 18?",
+    "options": ["42nd", "44th", "52nd", "61st"],
+    "answer": "61st"
+  },
+  {
+    "id": 543,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "What type of government does India have?",
+    "options": ["Presidential", "Monarchy", "Parliamentary", "Dictatorship"],
+    "answer": "Parliamentary"
+  },
+  {
+    "id": 544,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which Article deals with the 'Right to Freedom of Speech'?",
+    "options": ["Article 14", "Article 19(1)(a)", "Article 20", "Article 32"],
+    "answer": "Article 19(1)(a)"
+  },
+  {
+    "id": 545,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which constitutional body recommends financial distribution between Centre and States?",
+    "options": ["Planning Commission", "Finance Commission", "Election Commission", "UPSC"],
+    "answer": "Finance Commission"
+  },
+  {
+    "id": 546,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "The Indian Constitution is inspired MOST from which country?",
+    "options": ["USA", "UK", "France", "Russia"],
+    "answer": "UK"
+  },
+  {
+    "id": 547,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Who appoints the Prime Minister of India?",
+    "options": ["Lok Sabha", "President", "Chief Justice", "Rajya Sabha"],
+    "answer": "President"
+  },
+  {
+    "id": 548,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which Article is known as the 'Heart and Soul' of the Constitution?",
+    "options": ["Article 19", "Article 21", "Article 32", "Article 14"],
+    "answer": "Article 32"
+  },
+  {
+    "id": 549,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Rajya Sabha is also known as:",
+    "options": ["House of People", "Upper House", "Lower House", "Council of States"],
+    "answer": "Council of States"
+  },
+  {
+    "id": 550,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "The word 'Secular' was added to the Preamble by which amendment?",
+    "options": ["42nd", "44th", "52nd", "61st"],
+    "answer": "42nd"
+  },
+  {
+    "id": 551,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which Article allows President's Rule in states?",
+    "options": ["Article 350", "Article 356", "Article 360", "Article 370"],
+    "answer": "Article 356"
+  },
+  {
+    "id": 552,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "How many Lok Sabha seats are there?",
+    "options": ["530", "543", "550", "560"],
+    "answer": "543"
+  },
+  {
+    "id": 553,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Who presides over the Rajya Sabha?",
+    "options": ["Lok Sabha Speaker", "President", "Vice President", "Prime Minister"],
+    "answer": "Vice President"
+  },
+  {
+    "id": 554,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which Article gives special status to Jammu & Kashmir (before 2019)?",
+    "options": ["Article 35A", "Article 370", "Article 356", "Article 371"],
+    "answer": "Article 370"
+  },
+  {
+    "id": 555,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "How many years is the term of the President of India?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "id": 556,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which Article grants 'Right to Education'?",
+    "options": ["Article 21A", "Article 14", "Article 15", "Article 16"],
+    "answer": "Article 21A"
+  },
+  {
+    "id": 557,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "The Preamble declares India as:",
+    "options": ["Democratic", "Republic", "Sovereign Socialist Secular Democratic Republic", "Federal State"],
+    "answer": "Sovereign Socialist Secular Democratic Republic"
+  },
+  {
+    "id": 558,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which is the highest law in India?",
+    "options": ["Supreme Court", "Parliament", "Indian Constitution", "President"],
+    "answer": "Indian Constitution"
+  },
+  {
+    "id": 559,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which Article describes the procedure to amend the Constitution?",
+    "options": ["Article 360", "Article 368", "Article 352", "Article 356"],
+    "answer": "Article 368"
+  },
+  {
+    "id": 560,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Who administers the oath to the President of India?",
+    "options": ["Prime Minister", "Lok Sabha Speaker", "Chief Justice of India", "Vice President"],
+    "answer": "Chief Justice of India"
+  },
+  {
+    "id": 561,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which body is called the 'Guardian of the Constitution'?",
+    "options": ["Lok Sabha", "Supreme Court", "President", "Attorney General"],
+    "answer": "Supreme Court"
+  },
+  {
+    "id": 562,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which of the following is NOT a Fundamental Right?",
+    "options": ["Right to Equality", "Right to Education", "Right to Property", "Right to Freedom"],
+    "answer": "Right to Property"
+  },
+  {
+    "id": 563,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "How many states are there in India (2024)?",
+    "options": ["28", "29", "30", "27"],
+    "answer": "28"
+  },
+  {
+    "id": 564,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which Article deals with the Financial Emergency?",
+    "options": ["Article 360", "Article 352", "Article 356", "Article 370"],
+    "answer": "Article 360"
+  },
+  {
+    "id": 565,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "The idea of Fundamental Duties was adopted from which country?",
+    "options": ["Russia", "USA", "Japan", "UK"],
+    "answer": "Russia"
+  },
+  {
+    "id": 566,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which article prohibits discrimination based on religion, caste, sex or place of birth?",
+    "options": ["Article 14", "Article 15", "Article 18", "Article 21"],
+    "answer": "Article 15"
+  },
+  {
+    "id": 567,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Who is the commander-in-chief of the Indian Armed Forces?",
+    "options": ["Prime Minister", "President", "Defense Minister", "Army Chief"],
+    "answer": "President"
+  },
+  {
+    "id": 568,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which amendment is called the 'Mini Constitution'?",
+    "options": ["42nd Amendment", "44th Amendment", "24th Amendment", "52nd Amendment"],
+    "answer": "42nd Amendment"
+  },
+  {
+    "id": 569,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "The term 'Budget' is mentioned under which Article?",
+    "options": ["Article 112", "Article 110", "Article 120", "Article 80"],
+    "answer": "Article 112"
+  },
+  {
+    "id": 570,
+    "role": "gk",
+    "category": "Politics & Constitution",
+    "question": "Which Article deals with the impeachment of the President?",
+    "options": ["Article 61", "Article 71", "Article 80", "Article 310"],
+    "answer": "Article 61"
+  }
+
+]
